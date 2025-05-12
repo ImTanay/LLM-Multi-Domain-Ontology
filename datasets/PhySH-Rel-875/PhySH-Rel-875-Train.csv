@@ -1,0 +1,614 @@
+subject,object,simplified_label,skos_predicate
+Hexagonal close-packed,Crystal structures,broader,skos:broader
+PT-symmetry,Discrete symmetries in condensed matter,broader,skos:broader
+PT-symmetry,Discrete symmetries,broader,skos:broader
+Magnetocaloric effect,Magnetic coupling,broader,skos:broader
+Tunneling magnetoresistance,Magnetoresistance,broader,skos:broader
+Functional materials,Applications of soft matter,broader,skos:broader
+Chern insulators,Topological insulators,broader,skos:broader
+Fluid-gravity correspondence,General relativity,broader,skos:broader
+Cell growth,"Processes in cells, tissues & organoids",broader,skos:broader
+Critical exponents,Critical phenomena,broader,skos:broader
+Electro-optic effects,Nonlinear optics,broader,skos:broader
+Algal fuel,Biofuels,broader,skos:broader
+Solar flares,Solar plasma,broader,skos:broader
+Stripes,Order parameters,broader,skos:broader
+Semiclassical physics,"Quantum correlations, foundations & formalism",broader,skos:broader
+Neutrino detection,Particle detectors,broader,skos:broader
+Friedberg-Lee neutrino mass model,Neutrino mass,broader,skos:broader
+Beam processes,Beam dynamics,broader,skos:broader
+Inelastic neutron scattering,Neutron scattering,broader,skos:broader
+Field-effect transistors,Transistors,broader,skos:broader
+Cobaltates,Oxides,broader,skos:broader
+Bogoliubov-de Gennes equations,Methods in superconductivity,broader,skos:broader
+Kinesiology,Biological movement,broader,skos:broader
+Compressible turbulence,Turbulence,broader,skos:broader
+Advocacy,Physics & society,broader,skos:broader
+Terahertz generation in plasmas,Radiation & particle generation in plasmas,broader,skos:broader
+Annealing,Sample preparation,broader,skos:broader
+Neutrinoless double beta decay,Beta decay,broader,skos:broader
+Neutrinoless double beta decay,Neutrino interactions,broader,skos:broader
+Calorimeters,Particle detectors,broader,skos:broader
+C-symmetry,Discrete symmetries in condensed matter,broader,skos:broader
+C-symmetry,Discrete symmetries,broader,skos:broader
+Field-reversed plasma confinement configurations,Magnetically confined plasmas,broader,skos:broader
+LDA,Density functional approximations,broader,skos:broader
+Gauge symmetries,Symmetries in condensed matter,broader,skos:broader
+Neural basis of learning & memory,"Neuroscience, neural computation & artificial intelligence",broader,skos:broader
+Permalloy,Alloys,broader,skos:broader
+39 ≤ A ≤ 58,Nuclear mass ranges,broader,skos:broader
+Axons,Nerve cells,broader,skos:broader
+Osmosis,"Processes in cells, tissues & organoids",broader,skos:broader
+Vortices in superconductors,Superconductivity,broader,skos:broader
+Pathology,Medical physics & public health,broader,skos:broader
+Self-focusing,Nonlinear optics,broader,skos:broader
+Line defects,Distortions & defects,broader,skos:broader
+Line defects,Defects,broader,skos:broader
+Road networks,Transportation networks,broader,skos:broader
+Ettingshausen effect,Thermoelectric effects,broader,skos:broader
+Radiation monitoring & safety,Accelerator subsystems,broader,skos:broader
+Diversity,Physics & society,broader,skos:broader
+Freely-jointed chain,Ideal-chain models,broader,skos:broader
+Graphene,2-dimensional systems,broader,skos:broader
+Graphene,Carbon-based materials,broader,skos:broader
+Gauge-gravity dualities,Strings & branes,broader,skos:broader
+Magneto-optical effect,Magnetic coupling,broader,skos:broader
+Flow-structure interactions,Aerodynamics,broader,skos:broader
+"Atomic, optical & lattice clocks",Atomic & molecular processes in external fields,broader,skos:broader
+Strong field ionization & excitation,Strong electromagnetic field effects,broader,skos:broader
+Quantum computing models,Quantum computation,broader,skos:broader
+Transducers,Devices,broader,skos:broader
+Triplon,Quasiparticles & collective excitations,broader,skos:broader
+Photocatalysis,Photochemistry,broader,skos:broader
+Photocatalysis,Alternative feedstock chemicals,broader,skos:broader
+Hexagonal boron nitride,Boron nitride,broader,skos:broader
+6 ≤ A ≤ 19,Nuclear mass ranges,broader,skos:broader
+Crystal orientation,Crystal phenomena,broader,skos:broader
+Cluster expansion,Approximation methods for many-body systems,broader,skos:broader
+Inverse problems,Mathematical physics,broader,skos:broader
+Frequency conversion,Nonlinear optics,broader,skos:broader
+Magnetic anisotropy,Magnetism,broader,skos:broader
+Neuromorphic computing,Analog computation,broader,skos:broader
+Point defects,Distortions & defects,broader,skos:broader
+Point defects,Defects,broader,skos:broader
+Spin wave theory,Methods in magnetism,broader,skos:broader
+Thermophoresis,Transport phenomena,broader,skos:broader
+Medical applications of accelerators,Accelerator applications,broader,skos:broader
+Self-propelled particles,Living matter & active matter,broader,skos:broader
+Electron energy loss spectroscopy,Electron techniques,broader,skos:broader
+Semi-supervised learning,Machine learning categories,broader,skos:broader
+Quantum-to-classical transition,"Quantum correlations, foundations & formalism",broader,skos:broader
+Skin effect,Transport phenomena,broader,skos:broader
+Skin effect,Electrical properties,broader,skos:broader
+Green's function methods,Many-body techniques,broader,skos:broader
+Nuclear medicine imaging,Medical imaging,broader,skos:broader
+"Light propagation, transmission & absorption",Classical optics,broader,skos:broader
+Thermomechanical effects,Thermal properties,broader,skos:broader
+Coherent control,Optical techniques,broader,skos:broader
+Coherent control,Atomic & molecular processes in external fields,broader,skos:broader
+Quantum gates,Quantum computation,broader,skos:broader
+Isotope separation & enrichment,Nuclear engineering,broader,skos:broader
+Isotope separation & enrichment,Sample preparation,broader,skos:broader
+Hybrid functionals,Density functional approximations,broader,skos:broader
+Spin torque nano-oscillators,Nano-oscillators,broader,skos:broader
+Coronal loops,Solar plasma,broader,skos:broader
+Organelle,Subcellular structures,broader,skos:broader
+Poisson ratio,Elasticity,broader,skos:broader
+Janus materials,2-dimensional systems,broader,skos:broader
+Form factors,Particle properties,broader,skos:broader
+Packaging materials,Applications of soft matter,broader,skos:broader
+Luttinger–Kohn model,Band structure methods,broader,skos:broader
+Membrane dynamics,Membranes,broader,skos:broader
+Origami & Kirigami,Self-assembly,broader,skos:broader
+Sediment transport,Geophysical fluid dynamics,broader,skos:broader
+Potential energy surfaces,Atomic & molecular structure,broader,skos:broader
+Vortices in field theory,Classical solutions in field theory,broader,skos:broader
+Lifetime of molecular or ionic species,Lifetimes & widths,broader,skos:broader
+Elastic waves,Waves and free surface flows,broader,skos:broader
+Dopants,Defects,broader,skos:broader
+Clustering coefficient & triangles,Topological tools,broader,skos:broader
+Yukawa coupling,Particle interactions,broader,skos:broader
+Differential scanning calorimetry,Calorimetry,broader,skos:broader
+Random graphs,Stochastic networks,broader,skos:broader
+Ionic fluids,Classical fluids,broader,skos:broader
+Food webs,Ecological networks,broader,skos:broader
+Charge,Electrical properties,broader,skos:broader
+Noise measurements,Transport techniques,broader,skos:broader
+Rumor spreading,SIS model,broader,skos:broader
+Paints,Applications of soft matter,broader,skos:broader
+Spin Hall effect,Hall effect,broader,skos:broader
+Martensitic phase transition,Specific phase transitions,broader,skos:broader
+Organometallic materials,Organic compounds,broader,skos:broader
+Fine & hyperfine structure,Atomic & molecular structure,broader,skos:broader
+Nuclear fusion,Nuclear power,broader,skos:broader
+Nuclear fusion,Nuclear reactions,broader,skos:broader
+Micelles,"Surfactants, micelles & vesicles",broader,skos:broader
+Micelles,Subcellular structures,broader,skos:broader
+Brewster's angle,Refraction,broader,skos:broader
+Hydrides,Inorganic compounds,broader,skos:broader
+Osmotic interactions,Interactions & forces,broader,skos:broader
+Resonant piezoelectric spectroscopy,Optical techniques,broader,skos:broader
+Entanglement production,Quantum entanglement,broader,skos:broader
+Magnetohydrodynamic turbulence,Magnetohydrodynamics,broader,skos:broader
+Spin filtering,Spintronics,broader,skos:broader
+Climate research,Environmental research,broader,skos:broader
+Climate research,Sustainability,broader,skos:broader
+Adiabatic demagnetization,Cryogenics,broader,skos:broader
+Chemical charge transfer,Chemical reactions,broader,skos:broader
+Optical chaos,Nonlinear optics,broader,skos:broader
+Ionic solids,Inorganic compounds,broader,skos:broader
+Community detection algorithms,Topological tools,broader,skos:broader
+Nanoclusters,Nanostructures,broader,skos:broader
+Colossal magnetoresistance,Magnetoresistance,broader,skos:broader
+Antiprotons,Baryons,broader,skos:broader
+Nonlinear resonance,Nonlinear optics,broader,skos:broader
+Spin ice,Spin glasses,broader,skos:broader
+Spin ice,Frustrated magnetism,broader,skos:broader
+Glow discharge,Sample preparation,broader,skos:broader
+X-ray absorption near-edge spectroscopy,X-ray absorption spectroscopy,broader,skos:broader
+Iridates,Oxides,broader,skos:broader
+Continuous symmetries in condensed matter,Symmetries in condensed matter,broader,skos:broader
+Epidermis,Tissues,broader,skos:broader
+Metamagnetism,Magnetic order,broader,skos:broader
+Metagratings,Acoustic metamaterials,broader,skos:broader
+Crystal structures,Crystalline systems,broader,skos:broader
+Sky surveys,Electromagnetic radiation astronomy,broader,skos:broader
+Fracture,Mechanical & acoustical properties,broader,skos:broader
+Fracture,Surface & interfacial phenomena,broader,skos:broader
+Cracking,Surface & interfacial phenomena,broader,skos:broader
+Adaptive methods,Metrology,broader,skos:broader
+Reactor instrumentation,Nuclear reactors,broader,skos:broader
+Fractional Brownian motion,Brownian motion,broader,skos:broader
+Dipolar Rydberg atoms,Dipolar gases,broader,skos:broader
+Targets,Accelerator subsystems,broader,skos:broader
+X-ray beams & optics,Optics & lasers,broader,skos:broader
+Archea,Organisms,broader,skos:broader
+S-matrix method in transport,Methods in transport,broader,skos:broader
+Spin-resolved inverse photoemission spectroscopy,Inverse photoemission spectroscopy,broader,skos:broader
+Chemical binding,Atomic & molecular structure,broader,skos:broader
+SIRS model,Spreading models,broader,skos:broader
+Tunnel diode resonance,Resonance techniques,broader,skos:broader
+ATP,Enzymes,broader,skos:broader
+Zeeman effect,Atomic & molecular processes in external fields,broader,skos:broader
+Electron relaxation,Transport phenomena,broader,skos:broader
+Subcellular processes & properties,Biomolecular & subcellular processes,broader,skos:broader
+Irradiation,Atomic techniques,broader,skos:broader
+Schroedinger equation,Nonrelativistic wave equations,broader,skos:broader
+Functional materials,Energy materials,narrower,skos:narrower
+Functional materials,Energy applications,narrower,skos:narrower
+Functional materials,Smart materials,narrower,skos:narrower
+Field-effect transistors,MOSFET,narrower,skos:narrower
+Lattice models in condensed matter,Sachdev-Ye-Kitaev model,narrower,skos:narrower
+Lattice models in condensed matter,Su-Schrieffer-Heeger model,narrower,skos:narrower
+Lattice models in condensed matter,Spin lattice models,narrower,skos:narrower
+Lattice models in condensed matter,Hubbard model,narrower,skos:narrower
+Lattice models in condensed matter,Kondo lattice model,narrower,skos:narrower
+Lattice models in condensed matter,t-J model,narrower,skos:narrower
+Lattice models in condensed matter,Single impurity model,narrower,skos:narrower
+Closed-orbit theory,Periodic-orbit theory,narrower,skos:narrower
+Nonlinear dynamics in fluids,Low-dimensional models,narrower,skos:narrower
+Nonlinear dynamics in fluids,Fractals,narrower,skos:narrower
+Nonlinear dynamics in fluids,Pattern formation,narrower,skos:narrower
+Nonlinear dynamics in fluids,Bifurcations,narrower,skos:narrower
+Nonlinear dynamics in fluids,Chaos,narrower,skos:narrower
+Calorimeters,Electromagnetic calorimeters,narrower,skos:narrower
+Calorimeters,Hadronic calorimeters,narrower,skos:narrower
+Neural basis of learning & memory,Action potential propagation,narrower,skos:narrower
+Neural basis of learning & memory,Synapses,narrower,skos:narrower
+Neural basis of learning & memory,Neuroplasticity,narrower,skos:narrower
+Neural basis of learning & memory,Neural encoding,narrower,skos:narrower
+Vortices in superconductors,Flux pinning,narrower,skos:narrower
+Vortices in superconductors,Vortex lattices,narrower,skos:narrower
+Theories of collective dynamics & active matter,Vicsek model,narrower,skos:narrower
+Graphene,Twisted bilayer graphene,narrower,skos:narrower
+Graphene,Bilayer graphene,narrower,skos:narrower
+Particle detectors,Multi-purpose particle detectors,narrower,skos:narrower
+Particle detectors,Cherenkov detectors,narrower,skos:narrower
+Particle detectors,Neutrino detection,narrower,skos:narrower
+Particle detectors,Solid-state detectors,narrower,skos:narrower
+Particle detectors,Cosmic ray & astroparticle detectors,narrower,skos:narrower
+Particle detectors,Calorimeters,narrower,skos:narrower
+Particle detectors,Gaseous detectors,narrower,skos:narrower
+Particle detectors,Scintillators,narrower,skos:narrower
+Strong field ionization & excitation,XUV generation,narrower,skos:narrower
+Electromagnetic field calculations,Room-temperature magnet calculations,narrower,skos:narrower
+Electromagnetic field calculations,Superconducting magnet calculations,narrower,skos:narrower
+Quantum computing models,Measurement-based quantum computing,narrower,skos:narrower
+Quantum computing models,Topological quantum computing,narrower,skos:narrower
+Quantum computing models,Surface code quantum computing,narrower,skos:narrower
+Quantum computing models,Adiabatic quantum optimization,narrower,skos:narrower
+Spin wave theory,Linear spin wave theory,narrower,skos:narrower
+Self-propelled particles,Self-propelled janus particles,narrower,skos:narrower
+Self-propelled particles,Active Brownian particles,narrower,skos:narrower
+Electron energy loss spectroscopy,Electron magnetic circular dichroism,narrower,skos:narrower
+Electron energy loss spectroscopy,High-resolution electron energy loss spectroscopy,narrower,skos:narrower
+Laboratory plasma,Fusion reactors,narrower,skos:narrower
+Laboratory plasma,Magnetically confined plasmas,narrower,skos:narrower
+Laboratory plasma,Inertially confined plasmas,narrower,skos:narrower
+Green's function methods,Nonequilibrium Green's function,narrower,skos:narrower
+Green's function methods,Coherent potential approximation,narrower,skos:narrower
+Nuclear medicine imaging,Radiopharmaceuticals,narrower,skos:narrower
+Nuclear medicine imaging,Single photon emission computed tomography,narrower,skos:narrower
+Nuclear medicine imaging,Positron emission tomography,narrower,skos:narrower
+"Light propagation, transmission & absorption",Non-diffracting waves,narrower,skos:narrower
+"Light propagation, transmission & absorption",Evanescent waves,narrower,skos:narrower
+Nanostructures,Nanoparticles,narrower,skos:narrower
+Nanostructures,Nanorods,narrower,skos:narrower
+Nanostructures,Nanoclusters,narrower,skos:narrower
+Nanostructures,Nanoribbon,narrower,skos:narrower
+Nanostructures,Nanotubes,narrower,skos:narrower
+Nanostructures,Nanotechnology,narrower,skos:narrower
+Nanostructures,Nanowires,narrower,skos:narrower
+Nanostructures,Nanofibers,narrower,skos:narrower
+Nanostructures,Nanodisks,narrower,skos:narrower
+Spin Hall effect,Inverse spin Hall effect,narrower,skos:narrower
+Nuclear fusion,Fusion evaporation reactions,narrower,skos:narrower
+Micelles,Disk micelles,narrower,skos:narrower
+Micelles,Spherical micelles,narrower,skos:narrower
+Micelles,Cylindrical micelles,narrower,skos:narrower
+Optical chaos,Dynamics of nonlinear optical systems,narrower,skos:narrower
+Optical chaos,Optical instabilities,narrower,skos:narrower
+Community detection algorithms,Overlapping communities,narrower,skos:narrower
+Community detection algorithms,Evolving communities,narrower,skos:narrower
+Community detection algorithms,Non-overlapping communities,narrower,skos:narrower
+Spin ice,Artificial spin ice,narrower,skos:narrower
+Gravitation,Alternative gravity theories,narrower,skos:narrower
+Gravitation,Gravitational waves,narrower,skos:narrower
+Gravitation,General relativity,narrower,skos:narrower
+Gravitation,Quantum gravity,narrower,skos:narrower
+Gravitation,Supergravity,narrower,skos:narrower
+Gravitation,Experimental studies of gravity,narrower,skos:narrower
+Gravitation,Gravity in dimensions other than four,narrower,skos:narrower
+Multi-organism systems,Ecologies,narrower,skos:narrower
+Multi-organism systems,Populations,narrower,skos:narrower
+Multi-organism systems,Flocks,narrower,skos:narrower
+Continuous symmetries in condensed matter,Sp(2N) symmetry,narrower,skos:narrower
+Continuous symmetries in condensed matter,Infinite dimensional symmetries,narrower,skos:narrower
+Continuous symmetries in condensed matter,Sl(N) symmetry,narrower,skos:narrower
+Continuous symmetries in condensed matter,O(N) symmetry,narrower,skos:narrower
+Continuous symmetries in condensed matter,Conformal symmetry,narrower,skos:narrower
+Continuous symmetries in condensed matter,U(N) symmetry,narrower,skos:narrower
+Continuous symmetries in condensed matter,Chiral symmetry,narrower,skos:narrower
+Continuous symmetries in condensed matter,SO(N) symmetry,narrower,skos:narrower
+Continuous symmetries in condensed matter,Exceptional Lie algebra symmetries,narrower,skos:narrower
+Continuous symmetries in condensed matter,SU(N) symmetries,narrower,skos:narrower
+Crystal structures,Zinc-blende structure,narrower,skos:narrower
+Crystal structures,Brownmillerite,narrower,skos:narrower
+Crystal structures,Simple cubic,narrower,skos:narrower
+Crystal structures,Wurtzite,narrower,skos:narrower
+Crystal structures,Cesium chloride structure,narrower,skos:narrower
+Crystal structures,Spinels,narrower,skos:narrower
+Crystal structures,Fluorite structure,narrower,skos:narrower
+Crystal structures,Skutterudites,narrower,skos:narrower
+Crystal structures,Pyrochlores,narrower,skos:narrower
+Crystal structures,Diamond structure,narrower,skos:narrower
+Crystal structures,Face-centered cubic,narrower,skos:narrower
+Crystal structures,Hexagonal close-packed,narrower,skos:narrower
+Crystal structures,Olivines,narrower,skos:narrower
+Crystal structures,Body-centered cubic,narrower,skos:narrower
+Crystal structures,Noncentrosymmetric materials,narrower,skos:narrower
+Crystal structures,Perovskites,narrower,skos:narrower
+Crystal structures,Sodium chloride structure,narrower,skos:narrower
+Body & organ systems,Vascular system,narrower,skos:narrower
+Body & organ systems,Immune system,narrower,skos:narrower
+Body & organ systems,Endocrine system,narrower,skos:narrower
+Body & organ systems,Auditory system,narrower,skos:narrower
+Body & organ systems,Nervous system,narrower,skos:narrower
+Body & organ systems,Reproductive system,narrower,skos:narrower
+Body & organ systems,Skeletal system,narrower,skos:narrower
+Body & organ systems,Circulatory system,narrower,skos:narrower
+Body & organ systems,Motor system,narrower,skos:narrower
+Body & organ systems,Visual system,narrower,skos:narrower
+Quantum gravity,Canonical quantum gravity,narrower,skos:narrower
+Quantum gravity,Quantum aspects of black holes,narrower,skos:narrower
+Quantum gravity,Loop quantum gravity,narrower,skos:narrower
+Particle dark matter,Dark matter direct detection,narrower,skos:narrower
+Cooling & trapping,Atom & ion cooling,narrower,skos:narrower
+Cooling & trapping,Atom & ion trapping & guiding,narrower,skos:narrower
+Cooling & trapping,Molecule trapping & guiding,narrower,skos:narrower
+Cooling & trapping,Penning traps,narrower,skos:narrower
+Cooling & trapping,Optical lattices & traps,narrower,skos:narrower
+Non-Hermitian systems,Exceptional points,narrower,skos:narrower
+Metals,Liquid metals,narrower,skos:narrower
+Metals,Elemental metals,narrower,skos:narrower
+Metals,Kagome metal,narrower,skos:narrower
+Neuronal network activity,Inhibitory synapses,narrower,skos:narrower
+Neuronal network activity,Neuronal avalanches,narrower,skos:narrower
+Neuronal network activity,Spiking neurons,narrower,skos:narrower
+Electron diffraction,Convergent beam electron diffraction,narrower,skos:narrower
+Electron diffraction,Reflection high-energy electron diffraction,narrower,skos:narrower
+Electron diffraction,Low-energy electron diffraction,narrower,skos:narrower
+Acoustic metamaterials,Phononic crystals,narrower,skos:narrower
+Acoustic metamaterials,Metagratings,narrower,skos:narrower
+Particle phenomena,Particle decays,narrower,skos:narrower
+Particle phenomena,Particle mixing & oscillations,narrower,skos:narrower
+Particle phenomena,Particle detection signatures,narrower,skos:narrower
+Particle phenomena,Particle interactions,narrower,skos:narrower
+Particle phenomena,Particle production,narrower,skos:narrower
+Extreme event statistics,First passage problems,narrower,skos:narrower
+Single- and few-photon ionization & excitation,Nonsequential double (or multiple) ionization,narrower,skos:narrower
+Single- and few-photon ionization & excitation,Laser-modified scattering,narrower,skos:narrower
+Mechanical effects of light on material media,Remote sensing,narrower,skos:narrower
+Lattice dynamics,Electron-phonon coupling,narrower,skos:narrower
+Lattice dynamics,Anharmonic lattice dynamics,narrower,skos:narrower
+Lattice dynamics,Topological effects in acoustic systems,narrower,skos:narrower
+Spin chains,Quantum spin chains,narrower,skos:narrower
+Spin chains,Classical spin chains,narrower,skos:narrower
+Strong electromagnetic field effects,Strong field ionization & excitation,narrower,skos:narrower
+Strong electromagnetic field effects,Ultrashort pulses,narrower,skos:narrower
+Strong electromagnetic field effects,Strong-field-induced spectra,narrower,skos:narrower
+Quantum optics,Photon statistics,narrower,skos:narrower
+Quantum optics,Hybrid quantum systems,narrower,skos:narrower
+Quantum optics,Single photon sources,narrower,skos:narrower
+Quantum optics,Circuit quantum electrodynamics,narrower,skos:narrower
+Quantum optics,Squeezing of quantum noise,narrower,skos:narrower
+Quantum optics,Quantum fluctuations & noise,narrower,skos:narrower
+Quantum optics,Quantum optics with artificial atoms,narrower,skos:narrower
+Quantum optics,Photon pairs & parametric down-conversion,narrower,skos:narrower
+Quantum optics,Collective effects in quantum optics,narrower,skos:narrower
+Quantum optics,Superconducting quantum optics,narrower,skos:narrower
+Quantum optics,Quantum state engineering,narrower,skos:narrower
+Quantum optics,Semiconductor quantum optics,narrower,skos:narrower
+Positron diffraction,Collective effects in atomic physics,other,-
+Cavity methods,Thermal & statistical models,other,-
+Lagrangian flow field,Radioactive beams,other,-
+Multilayer & multiplex networks,Research Areas,other,-
+Hele-Shaw cell,Deterministic networks,other,-
+Aging,Robotics,other,-
+Coupled oscillators,Electric field effects,other,-
+Spectrometers & spectroscopic techniques,Exponential networks,other,-
+Astrophysical electromagnetic fields,Information theory,other,-
+Additive manufacturing,Lagrangian particle tracking,other,-
+Large eddy simulations,Resonance fluorescence,other,-
+Glassy systems,Quantum orbits theory,other,-
+Total cross sections,Hydrodynamic models,other,-
+Reaction diffusion systems,Physical Systems,other,-
+Minerals,Super-resolution techniques,other,-
+Stochastic analysis methods,Technology,other,-
+Lower undergraduate students,Professional Topics,other,-
+K-12 students,Volume of fluid method,other,-
+Fractional dimension,Packing & jamming problems,other,-
+Aging,Volume of fluid method,other,-
+Materials modeling,"Epistemology, attitudes, & beliefs",other,-
+Higgs bosons,Fibers,other,-
+Truncated conformal space approach,Tree network,other,-
+Collective models,Immersed boundary methods,other,-
+Linear response theory,Upper undergraduate students,other,-
+Educational policy,Bipartite graphs,other,-
+Porous media,Synthesis of new superheavy elements,other,-
+Stochastic analysis methods,Plasma thermodynamics,other,-
+Coherent Raman in a low pressure gas,Learning environment,other,-
+Electric field effects,Models based on symmetries,other,-
+Truncated conformal space approach,Feshbach resonance,other,-
+Large eddy simulations,Triangular network,other,-
+Data analysis,Acoustic tweezers,other,-
+Continuum particle models,Student preparation,other,-
+Emulsions,Collective effects in atomic physics,other,-
+Interconnected & interdependent networks,Triangular network,other,-
+Scientific reasoning & problem solving,Galaxy clusters,other,-
+Galaxy clusters,Classical statistical mechanics,other,-
+Electric field effects,Additive manufacturing,other,-
+Fibers,Galaxy clusters,other,-
+Stokes equations,Micromechanical & nanomechanical oscillators,other,-
+Naturalness,Exponential networks,other,-
+Immersed boundary methods,Thermal & statistical models,other,-
+Coherent Raman in a low pressure gas,Reaction diffusion systems,other,-
+Equations of state,Electric field effects,other,-
+Irreversible processes,Polydisperse materials,other,-
+Resonance fluorescence,K-12 teachers,other,-
+Aging,History of physics,other,-
+Numerical approximation & analysis,Upper undergraduate students,other,-
+Aging,Time series analysis,other,-
+Equations of state,Lower undergraduate students,other,-
+Plasma kinetic theory,Mean-field & cluster methods,other,-
+Precision measurements,Learning environment,other,-
+Space weather,Microfluidic devices,other,-
+Quantum complex networks,Collective behavior in networks,other,-
+Continuum particle models,K-12 teachers,other,-
+Higgs bosons,Macromolecules,other,-
+Suspensions,Direct numerical simulations,other,-
+Stochastic analysis methods,Dipole approximation,other,-
+Properties,Collective models,other,-
+Materials modeling,Perturbative methods,other,-
+Navier-Stokes equation,Volume of fluid method,other,-
+Sum rules,Test-particle methods,other,-
+Faculty,Precision measurements,other,-
+Population dynamics,Non-Newtonian fluids,other,-
+Space weather,Finite-size scaling,other,-
+Classical spin models,Non-Newtonian fluids,other,-
+Robotics,Multipole matrix elements,other,-
+Aging,Confinement,other,-
+Rotating wave approximation,Particle beams,other,-
+Quantum spin models,Research methodology,other,-
+Space weather,Laminar flows,other,-
+Advanced accelerator test facilities,Self-avoiding walks,other,-
+Assessment,Buoyancy,other,-
+Interconnected & interdependent networks,Space weather,other,-
+Plasma thermodynamics,Instructional materials development,other,-
+Continuum particle models,Additive manufacturing,other,-
+Composition of astronomical objects,Growth processes,other,-
+Statistical hydrodynamics,Upper undergraduate students,other,-
+Adiabatic approximation,Chirality,other,-
+Electrokinetic flows,Large deviation & rare event statistics,other,-
+Learning theory,Research Areas,other,-
+Statistical hydrodynamics,Chaos & nonlinear dynamics,other,-
+Engineering,Strong-field approximation,other,-
+History of physics,Professional Topics,other,-
+Confinement-induced resonance,Weighted networks,other,-
+Surface growth,Patterning,other,-
+Naturalness,Reaction diffusion systems,other,-
+Nonperturbative methods,Resonance fluorescence,other,-
+Multicomponent systems,Electrokinetic flows,other,-
+Aging,Equations of state,other,-
+Hybrid model,Super-resolution techniques,other,-
+Hierarchical equations of motion,Multipole matrix elements,other,-
+Lattice-Boltzmann methods,Nuclear many-body theory,other,-
+Plasma opacity,Thermal & statistical models,other,-
+Fractal dimension characterization,Surface growth,other,-
+Particle-in-cell methods,Electrokinetic flows,other,-
+Macromolecules,Classical spin models,other,-
+Glassy systems,Macromolecules,other,-
+Microfluidic devices,Bifurcation analysis,other,-
+Hyperspherical method,Confinement,other,-
+Rotating wave approximation,Professional Topics,other,-
+Porous media,Plasma ionization,other,-
+Dipole approximation,Rare-earth doped crystals,other,-
+Hybrid model,Reynolds-averaged Navier Stokes,other,-
+Coupled oscillators,Models based on symmetries,other,-
+Growth processes,Bifurcation analysis,other,-
+Cluster models,Linear response theory,other,-
+Bipartite graphs,Micromechanical & nanomechanical oscillators,other,-
+Minerals,Direct numerical simulations,other,-
+Hybrid model,Polydisperse materials,other,-
+Large eddy simulations,Multipole matrix elements,other,-
+Plasma ionization,Astrophysical fluid dynamics,other,-
+Coherent Raman in a low pressure gas,Velocimetry,other,-
+Structured light,Professional Topics,other,-
+Plasma optics,Population dynamics,other,-
+"Optical, coupled-channel & distorted wave models","Epistemology, attitudes, & beliefs",other,-
+Hyperspherical method,Lagrangian flow field,other,-
+Sum rules,Lindblad equation,other,-
+Confinement-induced resonance,Engineering,other,-
+Fractional dimension,Resonance fluorescence,other,-
+Phase space methods,Self-avoiding walks,other,-
+Brownian ratchet,Non-Newtonian fluids,other,-
+Buoyancy,Global Positioning System,other,-
+Network formation & growth,Fibers,other,-
+Naturalness,Astrophysical fluid dynamics,other,-
+Euler equation,Lagrangian particle tracking,other,-
+Integrable systems,Instructional strategies,other,-
+Growth processes,Complex fluids,other,-
+Stochastic analysis methods,Volume of fluid method,other,-
+Robotics,Student preparation,other,-
+Equations of state,Confinement,other,-
+Hybrid model,Particle accelerator facilities,other,-
+Fractal analysis,Physical Systems,other,-
+Porous media,Concepts & principles,other,-
+Dipole approximation,Collective behavior in networks,other,-
+Lower undergraduate students,Classical statistical mechanics,other,-
+Immersed boundary methods,Particle image velocimetry,other,-
+Lower undergraduate students,Strong-field approximation,other,-
+Adiabatic approximation,Cellular automata,other,-
+Lagrangian particle tracking,Neural network simulations,other,-
+Hot-wire anemometry,First-principles calculations in plasma physics,other,-
+Collective models,Exponential networks,other,-
+Lagrangian flow field,Synthesis of new superheavy elements,other,-
+Porous media,Navier-Stokes equation,other,-
+Structured light,Path-integral methods,other,-
+Lagrangian flow field,Ergodic theory,other,-
+Materials modeling,Fokker-Planck & Vlasov model,other,-
+High-energy-density plasmas,Stochastic analysis methods,other,-
+"Distances, redshifts, & velocities",Student preparation,other,-
+Particle sources & targets,Sum rules,other,-
+Interconnected & interdependent networks,Kinetically constrained models,other,-
+Packing & jamming problems,Quantum orbits theory,other,-
+Gyrofluid & gyrokinetics,Particle-in-cell methods,other,-
+Surface growth,Binary fluids,other,-
+Additive manufacturing,Classical statistical mechanics,other,-
+Cellular automata,Chirality,other,-
+Plasma optics,Large eddy simulations,other,-
+Structured light,Test-particle methods,other,-
+Globular clusters,Path-integral methods,other,-
+Fractal dimension characterization,Macromolecules,other,-
+Rotating wave approximation,K-12 teachers,other,-
+Structured light,Research methodology,other,-
+Educational policy,Confinement,other,-
+Linear response theory,Evolving networks,other,-
+Hydrodynamic models,Gravitational wave detectors,other,-
+Undergraduate research,Hele-Shaw cell,other,-
+Cluster models,Weak measurements,other,-
+Chirality,Patterning,other,-
+Faculty,Plasma kinetic theory,other,-
+Ballistic deposition,Direct numerical simulations,other,-
+Super-resolution techniques,Complex fluids,other,-
+Hyperspherical method,Stochastic analysis methods,other,-
+Materials modeling,Plasma ionization,other,-
+Uncorrelated network,Statistical hydrodynamics,other,-
+Neutrino detection,Neutrino detectors,same-as,skos:exactMatch
+Cobaltates,Cobaltites,same-as,skos:exactMatch
+Neuromorphic computing,Neuromorphic engineering,same-as,skos:exactMatch
+Ionic fluids,Ionic liquids,same-as,skos:exactMatch
+Charge,Electric charge,same-as,skos:exactMatch
+Magnetohydrodynamic turbulence,MHD turbulence,same-as,skos:exactMatch
+S-matrix method in transport,Scattering effects on transport,same-as,skos:exactMatch
+Spin-resolved inverse photoemission spectroscopy,Spin polarized inverse photoelectron spectroscopy,same-as,skos:exactMatch
+Schroedinger equation,Schrödinger equation,same-as,skos:exactMatch
+Strongly-coupled plasmas,strongly coupled plasmas,same-as,skos:exactMatch
+Non-Hermitian systems,Non-Hermitean systems,same-as,skos:exactMatch
+Lithium polymer batteries,Lithium-ion polymer batteries,same-as,skos:exactMatch
+Biological neural networks,Neuronal networks,same-as,skos:exactMatch
+Lithium-ion batteries,Li-ion batteries,same-as,skos:exactMatch
+Holstein model,Hubbard-Holstein,same-as,skos:exactMatch
+Discontinuous percolation transition,First order percolation transition,same-as,skos:exactMatch
+Time-resolved infrared spectroscopy,TRIR spectroscopy,same-as,skos:exactMatch
+Resonant inelastic x-ray scattering,Resonant IXS,same-as,skos:exactMatch
+Solid-solid transformations,Diffusionless transformation,same-as,skos:exactMatch
+Vacuum technology,Vacuum techniques,same-as,skos:exactMatch
+Interfacial flows,Free-surface flows,same-as,skos:exactMatch
+Information scrambling,Quantum scrambling,same-as,skos:exactMatch
+Bloch-Floquet theorem,Floquet theory,same-as,skos:exactMatch
+Amorphous materials,Non-crystalline solids,same-as,skos:exactMatch
+Lithium-air batteries,Li-air batteries,same-as,skos:exactMatch
+Electron-phonon coupling,Phonon-mediated pairing,same-as,skos:exactMatch
+Landau-Zener effect,Landau-Zener transition,same-as,skos:exactMatch
+Nuclear magnetic resonance relaxation rate,NMR relaxation rate,same-as,skos:exactMatch
+Electronic structure,Band structure,same-as,skos:exactMatch
+Sigma models,Sigma model,same-as,skos:exactMatch
+π-π stacking,pi-pi stacking,same-as,skos:exactMatch
+Density functional calculations,DFT calculations,same-as,skos:exactMatch
+Magnetoelectric effect,Magneto-electric effect,same-as,skos:exactMatch
+X-ray pair-distribution function analysis,X-ray PDF,same-as,skos:exactMatch
+Lithium-sulfur batteries,Li–S batteries,same-as,skos:exactMatch
+Eliashberg theory,Migdal-Eliashberg theory,same-as,skos:exactMatch
+Continuous-time random walk,Continuous time random walk,same-as,skos:exactMatch
+Nonequilibrium Green's function,Keldysh,same-as,skos:exactMatch
+Radio frequency calculations,RF calculations,same-as,skos:exactMatch
+Circuit quantum electrodynamics,Circuit QED,same-as,skos:exactMatch
+Three-dimensional turbulence,3D turbulence,same-as,skos:exactMatch
+Discontinuous phase transition,First order phase transition,same-as,skos:exactMatch
+Magnetization switching,Magnetization reversal,same-as,skos:exactMatch
+Mineralogical CO2 storage,Mineral CO2 storage,same-as,skos:exactMatch
+0-dimensional systems,Zero-dimensional systems,same-as,skos:exactMatch
+Continuous percolation transition,Second order percolation transition,same-as,skos:exactMatch
+2-dimensional systems,Two-dimensional systems,same-as,skos:exactMatch
+Particle-in-cell methods,Particle in cell methods,same-as,skos:exactMatch
+Optical tweezers,Laser trapping,same-as,skos:exactMatch
+Su-Schrieffer-Heeger model,SSH model,same-as,skos:exactMatch
+Faraday effect,Faraday rotation,same-as,skos:exactMatch
+Dzyaloshinskii-Moriya interaction,Antisymmetric exchange,same-as,skos:exactMatch
+Continuous phase transition,Second order phase transition,same-as,skos:exactMatch
+Spin state transition,Spin crossover,same-as,skos:exactMatch
+Ultrasound techniques,Ultrasonic techniques,same-as,skos:exactMatch
+Node-line semimetals,Node semimetal,same-as,skos:exactMatch
+Density functional theory development,DFT development,same-as,skos:exactMatch
+Adsorption,Surface adsorption,same-as,skos:exactMatch
+Cryo-scanning electron microscopy,CryoSEM,same-as,skos:exactMatch
+NV centers,Nitrogen-vacancy centers,same-as,skos:exactMatch
+1-dimensional systems,One-dimensional systems,same-as,skos:exactMatch
+Nonequilibrium fluctuations,Non-equilibrium fluctuations,same-as,skos:exactMatch
+Floquet systems,Periodically driven systems,same-as,skos:exactMatch
+Quantum memories,Quantum memory,same-as,skos:exactMatch
+Tidal hydroelectricity,Tidal power,same-as,skos:exactMatch
+Continuous symmetries,Lie groups,same-as,skos:exactMatch
+Metrology,Measurement science,same-as,skos:exactMatch
+Nitrogen vacancy centers in diamond,NV centers in diamond,same-as,skos:exactMatch
+Solid-gas interfaces,Solid-air interfaces,same-as,skos:exactMatch
+Tractor beams,Optical pulling,same-as,skos:exactMatch
+Radio frequency power sources,RF power sources,same-as,skos:exactMatch
+Linear response theory,Kubo formula,same-as,skos:exactMatch
+Machine learning,Quantum machine learning,same-as,skos:exactMatch
+Isotope shift,Isotopic shift,same-as,skos:exactMatch
+Neutron pair-distribution function analysis,Neutron PDF,same-as,skos:exactMatch
+Helium-3 superfluids,3He superfluids,same-as,skos:exactMatch
+Helium-3 superfluids,Helium 3 superfluids,same-as,skos:exactMatch
+Molecular solids,Molecular crystal,same-as,skos:exactMatch
+Fermi liquid theory,Landau Fermi liquid theory,same-as,skos:exactMatch
+Non-reciprocal propagation,Nonreciprocal propagation,same-as,skos:exactMatch
+Bottom quark,Beauty quark,same-as,skos:exactMatch
+Secondary ion mass spectrometry,Secondary ion mass spectroscopy,same-as,skos:exactMatch
+Two-dimensional electron system,2-dimensional electron system,same-as,skos:exactMatch
+Carbon capture,CO2 capture,same-as,skos:exactMatch
+Geoengineering,Climate engineering,same-as,skos:exactMatch
+Particle-induced x-ray emission,Proton-induced X-ray emission,same-as,skos:exactMatch
+Photoabsorption,Photo-absorption,same-as,skos:exactMatch
+Schwinger-Dyson equations,Dyson-Schwinger equations,same-as,skos:exactMatch

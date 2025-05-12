@@ -1,0 +1,88 @@
+subject,object,simplified_label,skos_predicate
+Thermopower,Thermoelectric effects,broader,skos:broader
+Quantum gravity,Gravitation,broader,skos:broader
+Fokker–Planck equation,Statistical methods,broader,skos:broader
+Ion-inertial confinement,Inertially confined plasmas,broader,skos:broader
+Geothermal heating,Geothermal energy,broader,skos:broader
+Particle dark matter,Dark matter,broader,skos:broader
+Particle dark matter,Cosmic rays & astroparticles,broader,skos:broader
+Particle dark matter,Particle astrophysics,broader,skos:broader
+Phase-field modeling,Numerical techniques,broader,skos:broader
+Dirac fermions,Fermions,broader,skos:broader
+Two-dimensional coherent spectroscopy,Optical spectroscopy,broader,skos:broader
+Sine-Gordon equation,Dynamical systems,broader,skos:broader
+Pnictides,Inorganic compounds,broader,skos:broader
+Rayleigh scattering in plasmas,Laser-plasma interactions,broader,skos:broader
+Neural mechanisms of decision making,"Neuroscience, neural computation & artificial intelligence",broader,skos:broader
+Ion scattering from surfaces,Surface scattering,broader,skos:broader
+Particle acceleration in plasmas,Plasma acceleration & new acceleration techniques,broader,skos:broader
+Drag reduction,Flow control,broader,skos:broader
+Mott-superfluid transition,Specific phase transitions,broader,skos:broader
+Structural phase transition,Specific phase transitions,broader,skos:broader
+Magnetopause,Earth's magnetosphere,broader,skos:broader
+Higher-dimensional field theories,Quantum field theory,broader,skos:broader
+Invertebrate development,Developmental biology,broader,skos:broader
+Strongly-coupled plasmas,Specific kinds of plasmas,broader,skos:broader
+Iron-based superconductors,Superconductors,broader,skos:broader
+Quantum optics,Optical tests of quantum theory,narrower,skos:narrower
+Quantum optics,Quantum measurements,narrower,skos:narrower
+Quantum optics,Cavity quantum electrodynamics,narrower,skos:narrower
+Quantum optics,Quantum states of light,narrower,skos:narrower
+Vibrational states,Vibronic effects,narrower,skos:narrower
+Electroweak interaction,Electroweak symmetry breaking,narrower,skos:narrower
+Electroweak interaction,Vacuum stability,narrower,skos:narrower
+Electroweak interaction,Electroweak phase transition,narrower,skos:narrower
+Electroweak interaction,Quantum electrodynamics,narrower,skos:narrower
+Electroweak interaction,Electroweak radiative corrections,narrower,skos:narrower
+Electroweak interaction,Cabibbo–Kobayashi–Maskawa matrix,narrower,skos:narrower
+Electroweak interaction,Hierarchy problem,narrower,skos:narrower
+Discrete symmetries,T-symmetry,narrower,skos:narrower
+Discrete symmetries,CPT symmetry,narrower,skos:narrower
+Discrete symmetries,C-symmetry,narrower,skos:narrower
+Discrete symmetries,PT-symmetry,narrower,skos:narrower
+Discrete symmetries,P-symmetry,narrower,skos:narrower
+Discrete symmetries,CP symmetry,narrower,skos:narrower
+Discrete symmetries,Isospin violation,narrower,skos:narrower
+Biological neural networks,Neuronal network activity,narrower,skos:narrower
+Biological neural networks,Learning,narrower,skos:narrower
+Biological neural networks,Memory,narrower,skos:narrower
+Biological neural networks,Connectome,narrower,skos:narrower
+Photorefractive & Kerr effects,Optical activity,narrower,skos:narrower
+Ecological networks,Food webs,narrower,skos:narrower
+Scaling methods,Cavity methods,other,-
+Nuclear data analysis & compilation,Cavity methods,other,-
+Radiation detectors,Resonance fluorescence,other,-
+Astrophysical fluid dynamics,Synthesis of new superheavy elements,other,-
+Time series analysis,Research Areas,other,-
+History of physics,Sum rules,other,-
+Triangular network,Multipole matrix elements,other,-
+Weighted networks,Microfluidics,other,-
+Fokker-Planck & Vlasov model,Data analysis,other,-
+Interconnected & interdependent networks,Hybrid model,other,-
+Plasma thermodynamics,Polydisperse systems,other,-
+Formation & evolution of stars & galaxies,Quantum orbits theory,other,-
+Multilayer & multiplex networks,Strong-field approximation,other,-
+Multicomponent systems,Magnetic fluids,other,-
+Microfluidics,Non-Newtonian fluids,other,-
+Cavity methods,Particle sources & targets,other,-
+Particle-in-cell methods,Diffusion & random walks,other,-
+Advanced accelerator test facilities,Correlation function measurements,other,-
+Fractional dimension,Self-avoiding walks,other,-
+Confinement-induced resonance,Reynolds-averaged Navier Stokes,other,-
+Triangular network,Emulsions,other,-
+First-principles calculations in plasma physics,Combinatorics,other,-
+Equations of state,Sum rules,other,-
+Higgs bosons,Population dynamics,other,-
+Fibers,Exponential networks,other,-
+Viscometers,Rheometers,same-as,skos:exactMatch
+Quasi elastic neutron scattering,Quasi-elastic neutron scattering,same-as,skos:exactMatch
+Cabibbo–Kobayashi–Maskawa matrix,CKM matrix,same-as,skos:exactMatch
+Photon correlation spectroscopy,Dynamical light scattering,same-as,skos:exactMatch
+Nonresonant inelastic x-ray scattering,Non-resonant IXS,same-as,skos:exactMatch
+Helium-4 superfluids,4He superfluids,same-as,skos:exactMatch
+Helium-4 superfluids,Helium 4 superfluids,same-as,skos:exactMatch
+BCS-BEC crossover,BEC-BCS crossover,same-as,skos:exactMatch
+Biofilms,Bacterial film,same-as,skos:exactMatch
+RKKY interaction,Ruderman-Kittel-Kasuya-Yosida interaction,same-as,skos:exactMatch
+Magnetohydrodynamic waves,MHD waves,same-as,skos:exactMatch
+Radio frequency techniques,RF techniques,same-as,skos:exactMatch

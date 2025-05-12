@@ -1,0 +1,176 @@
+subject,object,simplified_label,skos_predicate
+Single-electron transistors,Transistors,broader,skos:broader
+Impact craters,Granular materials,broader,skos:broader
+Femtosecond laser irradiation,Laser techniques,broader,skos:broader
+Polarization of light,Classical optics,broader,skos:broader
+Josephson junctions,Superconducting devices,broader,skos:broader
+Josephson junctions,Junctions,broader,skos:broader
+Energy levels,Nuclear structure & decays,broader,skos:broader
+Olivines,Crystal structures,broader,skos:broader
+Solar interior,Solar plasma,broader,skos:broader
+Cooling & trapping,Atomic & molecular processes in external fields,broader,skos:broader
+Implosion symmetry,Plasma fusion,broader,skos:broader
+Mott insulators,Strongly correlated systems,broader,skos:broader
+Colloidal gel,Colloids,broader,skos:broader
+Ballooning instability,Plasma macroinstabilities,broader,skos:broader
+Metals,3-dimensional systems,broader,skos:broader
+Pseudopotentials,Density functional approximations,broader,skos:broader
+Kinesin,Cytoskeletal motor proteins,broader,skos:broader
+Nanophotonics,Photonics,broader,skos:broader
+Lanthanides,Elemental materials,broader,skos:broader
+Eutactic polymers,Stereochemistry,broader,skos:broader
+Neuronal network activity,Biological neural networks,broader,skos:broader
+Thermal boundary conductance,Thermal properties,broader,skos:broader
+Measurement back action,Entanglement manipulation,broader,skos:broader
+Electron diffraction,Electron techniques,broader,skos:broader
+Charm quark,Quarks,broader,skos:broader
+Quasicrystals,Crystalline systems,broader,skos:broader
+Lithium polymer batteries,Lithium batteries,broader,skos:broader
+Giant resonances,Nuclear structure & decays,broader,skos:broader
+Spin polarization,Spintronics,broader,skos:broader
+Inner-shell processes,Photoemission,broader,skos:broader
+Sagnac effect,Optomechanics,broader,skos:broader
+Volumetric adsorption measurements,Adsorption,broader,skos:broader
+Acoustic metamaterials,Acoustics,broader,skos:broader
+Acoustic metamaterials,Metamaterials,broader,skos:broader
+Ion implantation,Sample preparation,broader,skos:broader
+Neutrinos,Leptons,broader,skos:broader
+Organic semiconductors,Organic compounds,broader,skos:broader
+Coulomb dissociation,Nuclear reactions,broader,skos:broader
+Electric & magnetic plasma measurements,Plasma diagnostic techniques,broader,skos:broader
+Isomer decays,Nuclear structure & decays,broader,skos:broader
+Olfaction,Sensory processes,broader,skos:broader
+Reactor fuels & coolants,Nuclear reactors,broader,skos:broader
+Fragmentation functions,Parton distribution functions,broader,skos:broader
+Electron sources,Particle-beam sources,broader,skos:broader
+Lithography,Sample preparation,broader,skos:broader
+Chern-Simons gauge theory,Gauge theories,broader,skos:broader
+Chern-Simons gauge theory,Field & string theory models & techniques,broader,skos:broader
+Glasses,Amorphous materials,broader,skos:broader
+Glasses,Disordered systems,broader,skos:broader
+Helicoidal magnetic texture,Magnetic texture,broader,skos:broader
+Single molecule techniques,Tethered particle motion,narrower,skos:narrower
+Mass,Neutrino mass,narrower,skos:narrower
+Beam techniques,Beam loss,narrower,skos:narrower
+Beam techniques,Beam diagnostics,narrower,skos:narrower
+Beam techniques,Secondary beams,narrower,skos:narrower
+Beam techniques,Accelerator/storage ring control systems,narrower,skos:narrower
+Beam techniques,Collimation,narrower,skos:narrower
+Beam techniques,Beam control,narrower,skos:narrower
+Beam techniques,"Beam injection, extraction & transport",narrower,skos:narrower
+"Surfactants, micelles & vesicles",Aggregates,narrower,skos:narrower
+"Surfactants, micelles & vesicles",Surfactant composites,narrower,skos:narrower
+"Surfactants, micelles & vesicles",Micelles,narrower,skos:narrower
+"Surfactants, micelles & vesicles",Surfactant bilayers,narrower,skos:narrower
+"Surfactants, micelles & vesicles",Surfactant monolayers,narrower,skos:narrower
+"Surfactants, micelles & vesicles",Vesicle structures,narrower,skos:narrower
+"Surfactants, micelles & vesicles",Langmuir-Blodgett films,narrower,skos:narrower
+Beta decay,Double beta decay,narrower,skos:narrower
+Beta decay,Neutrinoless double beta decay,narrower,skos:narrower
+Photovoltaic absorbers,Thermal photovoltaics,narrower,skos:narrower
+Photovoltaic absorbers,Thin-film photovoltaics,narrower,skos:narrower
+Photovoltaic absorbers,Tandem photovoltaics,narrower,skos:narrower
+Synthesis,Polymer synthesis,narrower,skos:narrower
+Synthesis,Polymerization,narrower,skos:narrower
+Alloys,Permalloy,narrower,skos:narrower
+Alloys,Solid solutions,narrower,skos:narrower
+Alloys,Transition metal alloys,narrower,skos:narrower
+Alloys,Rare-earth alloys,narrower,skos:narrower
+Alloys,Heusler alloy,narrower,skos:narrower
+Alloys,Disordered alloys,narrower,skos:narrower
+Caloritronics,Spin caloritronics,narrower,skos:narrower
+Film deposition,Physical deposition,narrower,skos:narrower
+Film deposition,Chemical deposition,narrower,skos:narrower
+Earth's atmosphere,Auroras,narrower,skos:narrower
+Earth's atmosphere,Electricity & lightning,narrower,skos:narrower
+Metamaterials,Split-ring resonators,narrower,skos:narrower
+Metamaterials,Acoustic metamaterials,narrower,skos:narrower
+Metamaterials,Negative refraction,narrower,skos:narrower
+Metamaterials,Hyperbolic metamaterials,narrower,skos:narrower
+Metamaterials,Mechanical metamaterials,narrower,skos:narrower
+Metamaterials,Magnonic crystals,narrower,skos:narrower
+Metamaterials,Optical cloaking,narrower,skos:narrower
+Metamaterials,Wire medium,narrower,skos:narrower
+Metamaterials,Metasurfaces,narrower,skos:narrower
+X-ray scattering,Inelastic X-ray scattering,narrower,skos:narrower
+X-ray scattering,Coherent X-ray scattering,narrower,skos:narrower
+X-ray scattering,Grazing-incidence small-angle x-ray scattering,narrower,skos:narrower
+X-ray scattering,X-ray resonant magnetic scattering,narrower,skos:narrower
+X-ray scattering,X-ray diffuse scattering,narrower,skos:narrower
+X-ray scattering,Small-angle x-ray scattering,narrower,skos:narrower
+X-ray scattering,Resonant elastic x-ray scattering,narrower,skos:narrower
+Interconnected & interdependent networks,Concepts & principles,other,-
+Boolean networks,Neural network simulations,other,-
+Kinetically constrained models,Binary fluids,other,-
+Formation & evolution of stars & galaxies,Global Positioning System,other,-
+Electrokinetic flows,Replica methods,other,-
+Research Areas,Evolving networks,other,-
+Assessment,Particle image velocimetry,other,-
+Particle-in-cell methods,Microfluidics,other,-
+Hyperspherical method,Quantum spin models,other,-
+Learning environment,Population dynamics,other,-
+Strong-field approximation,Lindblad equation,other,-
+Cavity methods,Crystallography,other,-
+Higgs bosons,Complex fluids,other,-
+Additive manufacturing,Direct numerical simulations,other,-
+Gravitational wave detectors,Classical spin models,other,-
+Shell model,Linear response theory,other,-
+Reynolds-averaged Navier Stokes,Perturbative methods,other,-
+"Distances, redshifts, & velocities",Evolving networks,other,-
+Confinement-induced resonance,Mechanical spectroscopy,other,-
+Integrable systems,Confinement,other,-
+Cavity methods,Reynolds-averaged Navier Stokes,other,-
+Weak measurements,Gravitational wave detectors,other,-
+Cluster models,Particle image velocimetry,other,-
+Telescopes,Correlation function measurements,other,-
+Mechanical spectroscopy,Tree network,other,-
+Feshbach resonance,Evolving networks,other,-
+Lower undergraduate students,Bifurcation analysis,other,-
+Shell model,Additive manufacturing,other,-
+Quantum spin models,Galaxy clusters,other,-
+Cavity methods,Research methodology,other,-
+Plasma thermodynamics,Particle beams,other,-
+Cavity methods,Emulsions,other,-
+Gyrofluid & gyrokinetics,Collective behavior in networks,other,-
+Plasma thermodynamics,Replica methods,other,-
+Super-resolution techniques,Self-avoiding walks,other,-
+Particle beams,Plasma kinetic theory,other,-
+Concepts & principles,Microfluidics,other,-
+Lee-Yang & Fisher zeroes,Multipole matrix elements,other,-
+Uncorrelated network,Fibers,other,-
+Navier-Stokes equation,Complex fluids,other,-
+Coherent Raman in a low pressure gas,Multilayer & multiplex networks,other,-
+Satellite data analysis,Ballistic deposition,other,-
+Spectrometers & spectroscopic techniques,History of physics,other,-
+First-principles calculations in plasma physics,Advanced accelerator test facilities,other,-
+Globular clusters,Macromolecules,other,-
+Collective effects in atomic physics,Exponential networks,other,-
+Statistical hydrodynamics,Lagrangian particle tracking,other,-
+Hydrodynamic models,Sum rules,other,-
+Robotics,Equations of state,other,-
+Assessment,Cellular automata,other,-
+Terahertz spectroscopy,THz spectroscopy,same-as,skos:exactMatch
+Beta-detected nuclear magnetic resonance,Beta-NMR,same-as,skos:exactMatch
+Run-of-river hydroelectricity,Run-of-the-river hydroelectricity,same-as,skos:exactMatch
+Low-energy electron diffraction,Low energy electron diffraction,same-as,skos:exactMatch
+GW method,GW approximation,same-as,skos:exactMatch
+Gyromagnetic ratio,g factor,same-as,skos:exactMatch
+Spot-profile analysis LEED,Spot-profile LEED,same-as,skos:exactMatch
+Lagrangian particle tracking,Particle tracking,same-as,skos:exactMatch
+Phase contrast optical microscopy,Phase-contrast microscopy,same-as,skos:exactMatch
+Cuprates,Copper-oxides,same-as,skos:exactMatch
+Linear accelerators,Linacs,same-as,skos:exactMatch
+Photoemission spectroscopy,Photoelectron spectroscopy,same-as,skos:exactMatch
+Time series analysis,Time-series analysis,same-as,skos:exactMatch
+Kardar–Parisi–Zhang equation,KPZ equation,same-as,skos:exactMatch
+Electric polarization,Charge polarization,same-as,skos:exactMatch
+Metallurgical magnetohydrodynamics,Metallurgical MHD,same-as,skos:exactMatch
+Lithium-alternative batteries,Beyond lithium batteries,same-as,skos:exactMatch
+Lithium-alternative batteries,Li-alternative batteries,same-as,skos:exactMatch
+Doped semiconductors,Extrinsic semiconductors,same-as,skos:exactMatch
+Solid-state detectors,Semiconductor detectors,same-as,skos:exactMatch
+Classical mechanics,Newtonian mechanics,same-as,skos:exactMatch
+Time-of-flight neutron spectroscopy,Time of flight neutron spectroscopy,same-as,skos:exactMatch
+Non-reciprocal transmission,Nonreciprocal transmission,same-as,skos:exactMatch
+Particle astrophysics,Astroparticle physics,same-as,skos:exactMatch
+Polarized optical microscopy,Polarized light microscopy,same-as,skos:exactMatch
