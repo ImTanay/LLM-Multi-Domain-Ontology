@@ -22,8 +22,6 @@ To support this analysis, we introduce **PEM-Rel-8K**, a novel dataset consistin
 ### 📄 `dataset/`
 This folder contains all datasets used in this study, including **IEEE-Rel-3K**, **MeSH-Rel-4K**, **PhySH-Rel-875**, and the comprehensive **PEM-Rel-8K** dataset. Access them [here](./datasets).
 
-#### Benchmark Creation
-
 ## 📊 Dataset Construction: PEM-Rel-8K
 
 **PEM-Rel-8K** is a comprehensive dataset of over 8,000 semantic relationships derived from three domain-specific taxonomies:  
@@ -79,7 +77,7 @@ This structured dataset enables robust evaluation of LLMs for semantic relations
 ---
 
 ### 🖥 `code/`
-This folder contains the **scripts** for identifying semantic relationships between research topic pairs. The scripts implement various strategies, including **zero-shot prompting (`STD_prompting`)**, **chain-of-thought prompting (`bCoT_prompting`)**, **fine-tuning (`fine_tuning`)**, and **cross-domain transferability (`cross_domain`)**.
+This folder contains the **scripts** for identifying semantic relationships between research topic pairs. The scripts implement various strategies, including **zero-shot prompting (`STD_prompting`)**, **chain-of-thought prompting (`bCoT_prompting`)**, **fine-tuning (`fine_tuning`)**, and **cross-domain transferability (`cross_domain`)**. Access them [here](./code)
 
 
 #### Task Overview
@@ -95,8 +93,8 @@ The task addressed in this study involves identifying the semantic relationship 
 The experimental strategies in this study are categorized into two prompting-based approaches and three fine-tuning-based approaches:
 
 1. **Prompting-based Strategies**:
-    - **One-way Strategy**: Each topic pair is processed once using a standardized prompt template.
-    - **Two-way Strategy**: Each topic pair is processed twice:
+    - **Standard Prompting**: Each topic pair is processed once using a standardised prompt template.
+    - **CoT, Two-way Strategy**: Each topic pair is processed twice:
         - First, the relationship between $c_A$ and $c_B$ is identified.
         - Then, the relationship between $c_B$ and $c_A$ is identified.
 
@@ -109,7 +107,7 @@ The experimental strategies in this study are categorized into two prompting-bas
     #### Prompt Template
     A standardised prompt template is employed across all strategies and models:
 
-    Classify the relationship between `[TOPIC-A]` and `[TOPIC-B]`.
+    ```Classify the relationship between `[TOPIC-A]` and `[TOPIC-B]`.```
 
 #### The table below provides an overview of the 12 LLMs used in our experiments
 It includes the **Model** name, the alias adopted in this study, the number of trainable **Parameters**, the context **Window** size, and the rank and scaling factor of the low-rank adaptation matrices used in LoRA (**r** and **alpha**).
