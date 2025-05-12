@@ -19,7 +19,7 @@ To support this analysis, we introduce **PEM-Rel-8K**, a novel dataset consistin
 
 ## 📂 Repository Structure
 
-### 📄 `dataset/`
+### 📄 `datasets/`
 This folder contains all datasets used in this study, including **IEEE-Rel-3K**, **MeSH-Rel-4K**, **PhySH-Rel-875**, and the comprehensive **PEM-Rel-8K** dataset. Access them [here](./datasets).
 
 ## 📊 Dataset Construction: PEM-Rel-8K
