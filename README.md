@@ -107,7 +107,7 @@ The experimental strategies in this study are categorized into two prompting-bas
     #### Prompt Template
     A standardised prompt template is employed across all strategies and models:
 
-    ```Classify the relationship between `[TOPIC-A]` and `[TOPIC-B]`.```
+    ```Classify the relationship between `[CONCEPT-A]` and `[CONCEPT-B]`.```
 
 #### The table below provides an overview of the 12 LLMs used in our experiments
 It includes the **Model** name, the alias adopted in this study, the number of trainable **Parameters**, the context **Window** size, and the rank and scaling factor of the low-rank adaptation matrices used in LoRA (**r** and **alpha**).
