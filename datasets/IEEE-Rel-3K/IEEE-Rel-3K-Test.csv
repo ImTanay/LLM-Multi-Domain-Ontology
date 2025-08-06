@@ -1,641 +1,641 @@
-subject,object,simplified_label,skos_predicate
-Transmission line antennas,Antennas,broader,skos:broader
-Filters,Signal processing,broader,skos:broader
-Phosphorus,Chemical elements,broader,skos:broader
-Plutonium,Chemical elements,broader,skos:broader
-Signal resolution,Signal processing,broader,skos:broader
-Oceans,Geoscience,broader,skos:broader
-Magnetic materials,Magnetics,broader,skos:broader
-Cyber warfare,Computer security,broader,skos:broader
-Data models,Modeling,broader,skos:broader
-Privacy-invasive software,Software,broader,skos:broader
-Radar applications,Radar,broader,skos:broader
-Construction industry,Industries,broader,skos:broader
-Punching,Materials processing,broader,skos:broader
-Software quality,Software,broader,skos:broader
-Extraterrestrial measurements,Measurement,broader,skos:broader
-Microinjection,Biology,broader,skos:broader
-Synthetic aperture radar,Radar,broader,skos:broader
-Proportional control,Control systems,broader,skos:broader
-Green's function methods,Modeling,broader,skos:broader
-Autoregressive processes,Statistics,broader,skos:broader
-Iterative methods,Mathematics,broader,skos:broader
-Programmable logic devices,Circuits,broader,skos:broader
-Application security,Computer security,broader,skos:broader
-Melt processing,Manufacturing systems,broader,skos:broader
-Bioelectric phenomena,Biology,broader,skos:broader
-Bellows,Mechanical products,broader,skos:broader
-Virtual enterprises,Computer applications,broader,skos:broader
-Classification algorithms,Algorithms,broader,skos:broader
-Cryobiology,Biology,broader,skos:broader
-Lattices,Mathematics,broader,skos:broader
-Permission,Computer security,broader,skos:broader
-Conference management,Management,broader,skos:broader
-Fluid flow control,Control systems,broader,skos:broader
-Motion sickness,Medical conditions,broader,skos:broader
-Magnetic sensors,Magnetics,broader,skos:broader
-Cadmium,Metals,broader,skos:broader
-Thermal variables control,Control systems,broader,skos:broader
-Alcoholism,Diseases,broader,skos:broader
-Casimir effect,Nanotechnology,broader,skos:broader
-Power transmission,Power systems,broader,skos:broader
-UHF circuits,Circuits,broader,skos:broader
-Earth,Geoscience,broader,skos:broader
-Nonlinear filters,Filters,broader,skos:broader
-Coordinate measuring machines,Measurement,broader,skos:broader
-Minimax techniques,Statistics,broader,skos:broader
-Finite difference methods,Numerical analysis,broader,skos:broader
-Urogenital system,Anatomy,broader,skos:broader
-Mining industry,Industries,broader,skos:broader
-Brachytherapy,Medical treatment,broader,skos:broader
-Rhodium,Chemical elements,broader,skos:broader
-Seals,Mechanical products,broader,skos:broader
-Samarium,Metals,broader,skos:broader
-Thermal factors,Physics,broader,skos:broader
-Scoliosis,Medical conditions,broader,skos:broader
-Optimization,Mathematics,broader,skos:broader
-Orthopedic procedures,Medical treatment,broader,skos:broader
-Interface management,Management,broader,skos:broader
-Nanocommunication,Nanotechnology,broader,skos:broader
-Narrowband,Communication systems,broader,skos:broader
-Quadrupedal robots,Robots,broader,skos:broader
-Yagi-Uda antennas,Antennas,broader,skos:broader
-Optical harmonic generation,Optics,broader,skos:broader
-Auxetic materials,Materials,broader,skos:broader
-PSCAD,Power systems,broader,skos:broader
-Cross layer design,Communication systems,broader,skos:broader
-Underwater communication,Communication systems,broader,skos:broader
-Power engineering computing,Computer applications,broader,skos:broader
-Geophysical measurements,Measurement,broader,skos:broader
-Structural rods,Structural shapes,broader,skos:broader
-Visual impairment,Medical conditions,broader,skos:broader
-Superposition calculus,Mathematics,broader,skos:broader
-Plant diseases,Diseases,broader,skos:broader
-Electronic medical prescriptions,Medical treatment,broader,skos:broader
-Optical variables measurement,Measurement,broader,skos:broader
-Financial management,Management,broader,skos:broader
-Metal foam,Materials,broader,skos:broader
-Magnetohydrodynamics,Mechanical factors,broader,skos:broader
-Millimeter wave circuits,Circuits,broader,skos:broader
-Attenuators,Signal processing,broader,skos:broader
-Pathogens,Diseases,broader,skos:broader
-Taylor series,Mathematics,broader,skos:broader
-Costs,Economics,broader,skos:broader
-Cyberattack,Computer security,broader,skos:broader
-Antenna measurements,Measurement,broader,skos:broader
-Equivalent circuits,Circuits,broader,skos:broader
-Nanopatterning,Nanotechnology,broader,skos:broader
-Loss measurement,Measurement,broader,skos:broader
-Image fusion,Image processing,broader,skos:broader
-Muscular dystrophy,Medical conditions,broader,skos:broader
-Statistical analysis,Statistics,broader,skos:broader
-Dynamic programming,Algorithms,broader,skos:broader
-Magnetic levitation,Magnetics,broader,skos:broader
-Image restoration,Image processing,broader,skos:broader
-Ultra large scale integration,Circuits,broader,skos:broader
-Botany,Biology,broader,skos:broader
-Data communication,Communication systems,broader,skos:broader
-Device-to-device communication,Communication systems,broader,skos:broader
-Open loop systems,Control systems,broader,skos:broader
-Image denoising,Image processing,broader,skos:broader
-Power system protection,Power systems,broader,skos:broader
-Monolithic integrated circuits,Integrated circuits,broader,skos:broader
-Acoustic sensors,Sensors,broader,skos:broader
-Tourism industry,Industries,broader,skos:broader
-Motion compensation,Control systems,broader,skos:broader
-Magnets,Magnetics,broader,skos:broader
-Electron optics,Optics,broader,skos:broader
-Transmission line matrix methods,Mathematics,broader,skos:broader
-Satellite communication,Communication systems,broader,skos:broader
-Power system measurements,Power systems,broader,skos:broader
-Endocrine system,Anatomy,broader,skos:broader
-Digital signal processing,Signal processing,broader,skos:broader
-Power system analysis computing,Power systems,broader,skos:broader
-Magnetoacoustic effects,Magnetics,broader,skos:broader
-Robot control,Control systems,broader,skos:broader
-Molecular computing,Nanotechnology,broader,skos:broader
-Oceanography,Geoscience,broader,skos:broader
-Orbital robotics,Robots,broader,skos:broader
-Thin wall structures,Structural shapes,broader,skos:broader
-Bathymetry,Measurement,broader,skos:broader
-Land surface,Geoscience,broader,skos:broader
-Uninterruptible power systems,Power systems,broader,skos:broader
-UHF integrated circuits,Integrated circuits,broader,skos:broader
-Communication system control,Communication systems,broader,skos:broader
-Metallization,Metals,broader,skos:broader
-Fasteners,Mechanical products,broader,skos:broader
-Routing,Communication systems,broader,skos:broader
-Cerium,Chemical elements,broader,skos:broader
-Fluorine,Chemical elements,broader,skos:broader
-Ball milling,Production,broader,skos:broader
-Electrical engineering industry,Industries,broader,skos:broader
-Chemical and biological sensors,Sensors,broader,skos:broader
-Peer-to-peer computing,Computer networks,broader,skos:broader
-Crystals,Materials,broader,skos:broader
-Hyperthermia,Medical conditions,broader,skos:broader
-Textile technology,Industries,broader,skos:broader
-Radiation detector circuits,Circuits,broader,skos:broader
-Viscosity,Measurement,broader,skos:broader
-Multispectral imaging,Imaging,broader,skos:broader
-Congestive heart failure,Medical conditions,broader,skos:broader
-Gears,Mechanical products,broader,skos:broader
-Transversal filters,Filters,broader,skos:broader
-Sharing economy,Economics,broader,skos:broader
-Trusted computing,Computer security,broader,skos:broader
-Magnetic fields,Magnetics,broader,skos:broader
-Image decomposition,Image processing,broader,skos:broader
-Power system dynamics,Power systems,broader,skos:broader
-Occipital Lobe,Brain,broader,skos:broader
-Solids,Materials,broader,skos:broader
-Differential privacy,Statistics,broader,skos:broader
-Data integrity,Computer security,broader,skos:broader
-MIMO communication,Communication systems,broader,skos:broader
-Radar antennas,Antennas,broader,skos:broader
-Mechanical guides,Mechanical products,broader,skos:broader
-Sensorless control,Control systems,broader,skos:broader
-Telegraphy,Communication systems,broader,skos:broader
-Kidney stones,Medical conditions,broader,skos:broader
-Tellurium,Chemical elements,broader,skos:broader
-Covariance matrices,Statistics,broader,skos:broader
-Automotive components,Mechanical products,broader,skos:broader
-Multiplying circuits,Circuits,broader,skos:broader
-Manufacturing systems,Three-dimensional printing,narrower,skos:narrower
-Modeling,Mathematical models,narrower,skos:narrower
-Diseases,Cardiovascular diseases,narrower,skos:narrower
-Mechanical products,Structural shapes,narrower,skos:narrower
-Industries,Financial industry,narrower,skos:narrower
-Information theory,Hamming distances,narrower,skos:narrower
-Management,Best practices,narrower,skos:narrower
-Signal processing,Signal integrity,narrower,skos:narrower
-Image processing,Image enhancement,narrower,skos:narrower
-Statistics,Adaptive estimation,narrower,skos:narrower
-Communication systems,Wireless communication,narrower,skos:narrower
-Management,Research and development management,narrower,skos:narrower
-Sensors,Sensor systems and applications,narrower,skos:narrower
-Anatomy,Circulatory system,narrower,skos:narrower
-Physics,Waves,narrower,skos:narrower
-Mathematics,Utility theory,narrower,skos:narrower
-Mathematics,Algorithms,narrower,skos:narrower
-Computer security,Passwords,narrower,skos:narrower
-Nervous system,Autonomic nervous system,narrower,skos:narrower
-Chemical elements,Helium,narrower,skos:narrower
-Software,Embedded software,narrower,skos:narrower
-Magnetics,Magnetooptic effects,narrower,skos:narrower
-Computer networks,IP networks,narrower,skos:narrower
-Communication systems,Duplex communication systems,narrower,skos:narrower
-Measurement,Noise measurement,narrower,skos:narrower
-Communication systems,Token networks,narrower,skos:narrower
-Semiconductor devices,MONOS devices,narrower,skos:narrower
-Sensors,Glucose sensors,narrower,skos:narrower
-Integrated circuits,Ultra large scale integration,narrower,skos:narrower
-Modeling,Semiconductor device modeling,narrower,skos:narrower
-Image processing,Image synthesis,narrower,skos:narrower
-Computer applications,Medical information systems,narrower,skos:narrower
-Magnetics,Gyromagnetism,narrower,skos:narrower
-Mathematics,Numerical analysis,narrower,skos:narrower
-Measurement,Measurement uncertainty,narrower,skos:narrower
-Biology,Biological processes,narrower,skos:narrower
-Diseases,Degenerative diseases,narrower,skos:narrower
-Materials,Superconducting materials,narrower,skos:narrower
-Circuits,Circuit faults,narrower,skos:narrower
-Integrated circuits,Coprocessors,narrower,skos:narrower
-Biology,Biodiversity,narrower,skos:narrower
-Signal processing,Signal detection,narrower,skos:narrower
-Software,Anti-virus software,narrower,skos:narrower
-Medical conditions,Dementia,narrower,skos:narrower
-Brain,Neurophysiology,narrower,skos:narrower
-Communication systems,Videophone systems,narrower,skos:narrower
-Sensors,Mechanical sensors,narrower,skos:narrower
-Computer networks,Token networks,narrower,skos:narrower
-Testing,Electronic equipment testing,narrower,skos:narrower
-Medical conditions,Thrombosis,narrower,skos:narrower
-Medical treatment,Neutron capture therapy,narrower,skos:narrower
-Filters,Equalizers,narrower,skos:narrower
-Management,Contract management,narrower,skos:narrower
-Measurement,Atmospheric measurements,narrower,skos:narrower
-Algorithms,Clustering algorithms,narrower,skos:narrower
-Communication systems,Communication system signaling,narrower,skos:narrower
-Circuits,Wafer scale integration,narrower,skos:narrower
-Communication systems,Multimedia communication,narrower,skos:narrower
-Control systems,Centralized control,narrower,skos:narrower
-Medical conditions,Pregnancy,narrower,skos:narrower
-Industry applications,Electromechanical systems,narrower,skos:narrower
-Electric variables measurement,Transmission line measurements,narrower,skos:narrower
-Metals,Platinum,narrower,skos:narrower
-Computer applications,Big Data applications,narrower,skos:narrower
-Metals,Lithium,narrower,skos:narrower
-Computer security,Cloud computing security,narrower,skos:narrower
-Magnetics,Magnetic properties,narrower,skos:narrower
-Management,Organizational aspects,narrower,skos:narrower
-Measurement,Reflectometry,narrower,skos:narrower
-Signal processing,Pulse shaping methods,narrower,skos:narrower
-Measurement,UHF measurements,narrower,skos:narrower
-Materials,Paints,narrower,skos:narrower
-Software,Software maintenance,narrower,skos:narrower
-Communication systems,Teletext,narrower,skos:narrower
-Biology,Physiology,narrower,skos:narrower
-Numerical analysis,Iterative methods,narrower,skos:narrower
-Integrated circuits,MESFET integrated circuits,narrower,skos:narrower
-Anatomy,Human anatomy,narrower,skos:narrower
-Medical specialties,Neurology,narrower,skos:narrower
-Biology,Biological information theory,narrower,skos:narrower
-Nanotechnology,Nanopositioning,narrower,skos:narrower
-Mathematics,Linear matrix inequalities,narrower,skos:narrower
-Chemical elements,Radon,narrower,skos:narrower
-Modeling,Numerical models,narrower,skos:narrower
-Geoscience,Meteorological factors,narrower,skos:narrower
-Image processing,Table lookup,narrower,skos:narrower
-Nervous system,Peripheral nervous system,narrower,skos:narrower
-Communication systems,Indoor communication,narrower,skos:narrower
-Signal processing,Signal generators,narrower,skos:narrower
-Circuits,Analog circuits,narrower,skos:narrower
-Antennas,Wearable antennas,narrower,skos:narrower
-Semiconductor devices,Semiconductor lasers,narrower,skos:narrower
-Communication systems,Multiaccess communication,narrower,skos:narrower
-Algorithms,Artificial bee colony algorithm,narrower,skos:narrower
-Communication systems,Biomedical communication,narrower,skos:narrower
-Robots,Humanoid robots,narrower,skos:narrower
-Signal processing,Amplifiers,narrower,skos:narrower
-Mathematics,Method of moments,narrower,skos:narrower
-Mathematics,Estimation,narrower,skos:narrower
-Medical services,Clinical diagnosis,narrower,skos:narrower
-Imaging,Infrared imaging,narrower,skos:narrower
-Medical treatment,Cryotherapy,narrower,skos:narrower
-Optics,Optical losses,narrower,skos:narrower
-Circuits,Circuit synthesis,narrower,skos:narrower
-Computer applications,Power system analysis computing,narrower,skos:narrower
-Filters,Power filters,narrower,skos:narrower
-Measurement,Thermal variables measurement,narrower,skos:narrower
-Management,Public relations,narrower,skos:narrower
-Optics,Adaptive optics,narrower,skos:narrower
-Circuits,Sequential circuits,narrower,skos:narrower
-Semiconductor devices,Semiconductor waveguides,narrower,skos:narrower
-Sensors,Soft sensors,narrower,skos:narrower
-Integrated circuits,Superconducting integrated circuits,narrower,skos:narrower
-Numerical analysis,Gradient methods,narrower,skos:narrower
-Management,Risk analysis,narrower,skos:narrower
-Circuits,Rectifiers,narrower,skos:narrower
-Physics,Beams,narrower,skos:narrower
-Mechanical products,Blades,narrower,skos:narrower
-Medical treatment,Brain stimulation,narrower,skos:narrower
-Communication systems,Regional area networks,narrower,skos:narrower
-Mathematics,Topology,narrower,skos:narrower
-Power systems,Pulsed power systems,narrower,skos:narrower
-Optics,Extinction coefficients,narrower,skos:narrower
-Biology,Systematics,narrower,skos:narrower
-Nanotechnology,Nanostructures,narrower,skos:narrower
-Circuits,Voltage multipliers,narrower,skos:narrower
-Information theory,Source coding,narrower,skos:narrower
-Imaging,Magnetic resonance imaging,narrower,skos:narrower
-Sensors,Intracranial pressure sensors,narrower,skos:narrower
-Metals,Steel,narrower,skos:narrower
-Management,Marketing management,narrower,skos:narrower
-Control systems,Networked control systems,narrower,skos:narrower
-Circuits,RLC circuits,narrower,skos:narrower
-Management,Business process re-engineering,narrower,skos:narrower
-Metals,Nickel,narrower,skos:narrower
-Nervous system,Spinal cord,narrower,skos:narrower
-Metals,Palladium,narrower,skos:narrower
-Testing,Benchmark testing,narrower,skos:narrower
-Materials,Organic inorganic hybrid materials,narrower,skos:narrower
-Communication systems,Communication system software,narrower,skos:narrower
-Modeling,Process modeling,narrower,skos:narrower
-Image processing,Image stitching,narrower,skos:narrower
-Industries,Manufacturing industries,narrower,skos:narrower
-Chemical elements,Technetium,narrower,skos:narrower
-Control systems,Pressure control,narrower,skos:narrower
-Materials,Ceramics,narrower,skos:narrower
-Mathematics,Linear systems,narrower,skos:narrower
-Radar,Ground penetrating radar,narrower,skos:narrower
-Communication systems,SISO communication,narrower,skos:narrower
-Anatomy,Digestive system,narrower,skos:narrower
-Industry applications,Food technology,narrower,skos:narrower
-Electric variables measurement,Electrostatic measurements,narrower,skos:narrower
-Filters,Resonator filters,narrower,skos:narrower
-Mathematics,Mathematical programming,narrower,skos:narrower
-Nanotechnology,Nanoscale technology,narrower,skos:narrower
-Computer applications,Knowledge management,narrower,skos:narrower
-Biology,Vegetation,narrower,skos:narrower
-Statistics,Gaussian mixture model,narrower,skos:narrower
-Diseases,Epilepsy,narrower,skos:narrower
-Circuits,Bipolar transistor circuits,narrower,skos:narrower
-Monolithic integrated circuits,Electronic voting systems,other,-
-Xnot_relatedD,Requirements engineering,other,-
-Satellite ground stations,Agricultural robots,other,-
-Collective intelligence,Hip,other,-
-Austenite,Radio transceivers,other,-
-UHF propagation,Space radiation,other,-
-Heart rate,Multistatic radar,other,-
-Light fields,Pulp manufacturing,other,-
-Platinum,Tides,other,-
-Doppler measurement,Active networking,other,-
-Air conditioning,Machine shops,other,-
-Lightweight structures,Embryonic structures,other,-
-Whale optimization algorithms,Statistical analysis,other,-
-Encapsulation,Image intensifiers,other,-
-Nonconductive adhesives,Thin films,other,-
-Base stations,Interferometry,other,-
-Low-power wide area networks,Ice surface,other,-
-Approximation methods,Radiation protection,other,-
-Transactive energy,Automotive engineering,other,-
-Uncertainty,Manipulators,other,-
-Neural network compression,X reality,other,-
-Vision defects,Ice surface,other,-
-Organizations,Steel industry,other,-
-Data encapsulation,Radium,other,-
-Plastic packaging,Quantum dots,other,-
-Mammography,Glass products,other,-
-Biofuels,Archeology,other,-
-Career development,Corrugated surfaces,other,-
-Body regions,Readout electronics,other,-
-Nitrogen compounds,Lean production,other,-
-Wavelet analysis,Hyper-intelligent systems,other,-
-On board unit,Dictionaries,other,-
-Trademarks,Brain modeling,other,-
-Resource description framework,Adaptive systems,other,-
-Web pages,Photothyristors,other,-
-Foundries,Inspection,other,-
-Biomedical monitoring,Anxiety disorders,other,-
-Computer crashes,Wireless personal area networks,other,-
-Transfer functions,Mixed integer linear programming,other,-
-X-ray lithography,Foot,other,-
-Vehicular ad hoc networks,Ambient networks,other,-
-Censorship,Vehicles,other,-
-AC machines,Packet switching,other,-
-Immune system,Smart cards,other,-
-Equal opportunities,Readout electronics,other,-
-Autonomous driving,Ores,other,-
-Tuned circuits,Three-dimensional displays,other,-
-Power engineering education,Space missions,other,-
-Marine vegetation,Switching systems,other,-
-Public infrastructure,Microcell networks,other,-
-Bio-inspired engineering,Automotive engineering,other,-
-Cable TV,Anxiety disorders,other,-
-Chebyshev approximation,Paper mills,other,-
-Competitive intelligence,Functional magnetic resonance imaging,other,-
-Resource management,Corporate acquisitions,other,-
-Light rail systems,Integrated memory circuits,other,-
-Flexible electronics,Feedback loop,other,-
-Conferences,Manufacturing automation,other,-
-Methanol,Mixed integer linear programming,other,-
-Field programmable analog arrays,Fiber reinforced plastics,other,-
-Cellular radio,Visual odometry,other,-
-Cutoff frequency,Java,other,-
-Organic light emitting diodes,Electroencephalography,other,-
-Finishing,Inference algorithms,other,-
-Smart homes,Flammability,other,-
-Energy harvesting,Interferometry,other,-
-Small business technology transfer,Fast Fourier transforms,other,-
-Wireless LAN,Hyper-intelligent systems,other,-
-Internal combustion engines,Mixed integer linear programming,other,-
-Jamming,Food industry,other,-
-Computational fluid dynamics,Deductive databases,other,-
-Transfer molding,Brain injuries,other,-
-Sonar,Neutron capture therapy,other,-
-Geoacoustic inversion,Entertainment industry,other,-
-Admittance,Planar waveguides,other,-
-CMOS image sensors,Mouth,other,-
-Phase shifting interferometry,Fractals,other,-
-Energy management systems,Entertainment industry,other,-
-Manipulator dynamics,Wine industry,other,-
-Load flow analysis,SGML,other,-
-Ozonation,Sonar measurements,other,-
-Biomedical microelectromechanical systems,Hip,other,-
-Elementary particle vacuum,Ores,other,-
-Direction-of-arrival estimation,Nanopackaging,other,-
-MERIS,Diamagnetic materials,other,-
-Neuromorphic engineering,Classification tree analysis,other,-
-Radio navigation,High-k dielectric materials,other,-
-Marketing management,Vocabulary,other,-
-Global Earth Observation System of Systems,Automotive engineering,other,-
-Bioelectric phenomena,Jamming,other,-
-Action potentials,Cobalt alloys,other,-
-Physical unclonable function,Volume relaxation,other,-
-Multichip modules,Superconducting transmission lines,other,-
-Load monitoring,Mixed integer linear programming,other,-
-Network analyzers,Switching systems,other,-
-Information science,Earth,other,-
-Liquid nitrogen,Wine industry,other,-
-Moisture control,Nonlinear circuits,other,-
-Protection switching,Gaze tracking,other,-
-Eyes,Gynecology,other,-
-Publishing,Visual odometry,other,-
-Ergonomics,Ambient networks,other,-
-Knowledge acquisition,Image sequences,other,-
-Memoryless systems,Induction motors,other,-
-Thermoreflectance imaging,Iterative methods,other,-
-Erbium-doped fiber lasers,Thermal management,other,-
-Wavelet domain,Atomic force microscopy,other,-
-Eyelids,Iterative decoding,other,-
-Green design,Electrochromic devices,other,-
-Chemical analysis,Permanent magnets,other,-
-Photorefractive effect,Electronic commerce,other,-
-Reflector antennas,Control theory,other,-
-Local government,Histopathology,other,-
-Thermoplastic polyethylene,Thomson effect,other,-
-Collaborative work,Induction motors,other,-
-Data systems,Propellers,other,-
-Photothyristors,Ores,other,-
-Telepresence,Fractals,other,-
-Optical modulation,Hip,other,-
-Underground power cables,Diffraction gratings,other,-
-Autonomic systems,Microwave communication,other,-
-Yttrium,Thermal management,other,-
-Fault tolerance,Textile industry,other,-
-Envelope detectors,Sonar measurements,other,-
-Magnesium,Bulk acoustic wave devices,other,-
-Dams,Charge measurement,other,-
-Marine technology,Anthropomorphism,other,-
-Phonocardiography,Orthopedic procedures,other,-
-OWL,Digital recording,other,-
-Load management,Manufacturing automation,other,-
-Tornadoes,Home computing,other,-
-Collective intelligence,Three-dimensional displays,other,-
-North Pole,Requirements engineering,other,-
-Asynchronous communication,Semiconductor waveguides,other,-
-Optical solitons,Continuous wavelet transforms,other,-
-Computer vision,Emissions trading,other,-
-Elastic computing,Surface cleaning,other,-
-Positron emission tomography,Aquaculture,other,-
-Modal analysis,Business intelligence,other,-
-Rotating machines,Australia,other,-
-Integrated optics,Earthquakes,other,-
-Digital elevation models,Quantum cascade lasers,other,-
-Probability distribution,Sonar measurements,other,-
-Neon,Decorrelation,other,-
-Aerosols,Uniaxial strain,other,-
-Optical add-drop multiplexers,Anthropomorphism,other,-
-Disk drives,Presence network agents,other,-
-Message authentication,Broadcasting,other,-
-Reinforcement learning,Reconfigurable devices,other,-
-Optical fiber communication,Acoustic reflection,other,-
-Microrelays,Transversal filters,other,-
-Multiwave mixing,Clamps,other,-
-Business process re-engineering,Self-organizing networks,other,-
-Hydrogen fluoride,Tracking loops,other,-
-Consensus protocol,Electrolytes,other,-
-Wheels,Continuous wavelet transforms,other,-
-Heat recovery,Estimation,other,-
-Microfiltration,Mobile learning,other,-
-Power harmonic filters,Authentication,other,-
-Kidney,Booting,other,-
-Cyber harrassment,Cyberbullying,same-as,skos:exactMatch
-Cerebral injuries,Brain injuries,same-as,skos:exactMatch
-Fiberglass composites,Fiber reinforced plastics,same-as,skos:exactMatch
-Orthopedic surgeries,Orthopedic procedures,same-as,skos:exactMatch
-Automated regulation,Automatic control,same-as,skos:exactMatch
-Control devices,Control equipment,same-as,skos:exactMatch
-Errorcorrection codes,Error correction codes,same-as,skos:exactMatch
-RAN Networks,Radio access networks,same-as,skos:exactMatch
-D/A conversion,Digital-analog conversion,same-as,skos:exactMatch
-System Startup,Booting,same-as,skos:exactMatch
-Space diversity,Spatial diversity,same-as,skos:exactMatch
-Space measurements,Extraterrestrial measurements,same-as,skos:exactMatch
-Fingerprint identification,Fingerprint recognition,same-as,skos:exactMatch
-Household appliances,Home appliances,same-as,skos:exactMatch
-Ecommerce,Electronic commerce,same-as,skos:exactMatch
-Geothermal energy production,Geothermal power generation,same-as,skos:exactMatch
-Charge quantification,Charge measurement,same-as,skos:exactMatch
-Ehealth,Electronic healthcare,same-as,skos:exactMatch
-DWT,Discrete wavelet transforms,same-as,skos:exactMatch
-Measurement scales,Measurement units,same-as,skos:exactMatch
-Catalyst Action,Catalysis,same-as,skos:exactMatch
-Object identification,Object recognition,same-as,skos:exactMatch
-Autonomous cars,Autonomous automobiles,same-as,skos:exactMatch
-Computerised axial tomography,Computed tomography,same-as,skos:exactMatch
-Digital media communication,Multimedia communication,same-as,skos:exactMatch
-Stibium,Antimony,same-as,skos:exactMatch
-Visual apparatus,Visual systems,same-as,skos:exactMatch
-Electrooptical modulators,Electro-optic modulators,same-as,skos:exactMatch
-Combustibility,Flammability,same-as,skos:exactMatch
-Nearest neighbour methods,Nearest neighbor methods,same-as,skos:exactMatch
-Hyrdroelectric,Hydroelectric power generation,same-as,skos:exactMatch
-Diversity techniques,Diversity methods,same-as,skos:exactMatch
-Biological substances,Biological materials,same-as,skos:exactMatch
-Finite-element analysis,Finite element analysis,same-as,skos:exactMatch
-Metamorphic High Electron Mobility Transistors,mHEMTs,same-as,skos:exactMatch
-Mathematical analysis of functions,Functional analysis,same-as,skos:exactMatch
-QCL lasers,Quantum cascade lasers,same-as,skos:exactMatch
-Space based radar,Spaceborne radar,same-as,skos:exactMatch
-HR management,Human resource management,same-as,skos:exactMatch
-Maximum a posteriori probability,Maximum a posteriori estimation,same-as,skos:exactMatch
-Glow Discharge Plasma,Glow discharges,same-as,skos:exactMatch
-Mobile apps,Mobile applications,same-as,skos:exactMatch
-Retinal blood vessels,Retinal vessels,same-as,skos:exactMatch
-Mesoporous substances,Mesoporous materials,same-as,skos:exactMatch
-PWM convertors,Pulse width modulation converters,same-as,skos:exactMatch
-SDH,Synchronous digital hierarchy,same-as,skos:exactMatch
-Analog digital integrated circuits,Analog-digital integrated circuits,same-as,skos:exactMatch
-Wafer-level integration,Wafer scale integration,same-as,skos:exactMatch
-Human Measurements,Anthropometry,same-as,skos:exactMatch
-Machine-aided indexing,Machine assisted indexing,same-as,skos:exactMatch
-Human-technical systems,Sociotechnical systems,same-as,skos:exactMatch
-Human-like characteristics,Anthropomorphism,same-as,skos:exactMatch
-PolSK,Polarization shift keying,same-as,skos:exactMatch
-Whale-inspired optimization,Whale optimization algorithms,same-as,skos:exactMatch
-Silicon Controlled Rectifier Circuits,Thyristor circuits,same-as,skos:exactMatch
-Proportional derivative control,PD control,same-as,skos:exactMatch
-Block chain,Blockchains,same-as,skos:exactMatch
-Electricity supply industry liberalisation,Electricity supply industry deregulation,same-as,skos:exactMatch
-X-ray astronomy telescopes,X-ray telescopes,same-as,skos:exactMatch
-Cybercrime,Computer crime,same-as,skos:exactMatch
-Solid materials,Solids,same-as,skos:exactMatch
-Underwater drones,Autonomous underwater vehicles,same-as,skos:exactMatch
-Logic matrices,Logic arrays,same-as,skos:exactMatch
-Mixed-signal integrated circuits,Hybrid integrated circuits,same-as,skos:exactMatch
-Domestic computing,Home computing,same-as,skos:exactMatch
-Underwater autonomous vehicles,Autonomous underwater vehicles,same-as,skos:exactMatch
-Self organizing maps,Self-organizing feature maps,same-as,skos:exactMatch
-Zero correlation area,Zero correlation zone,same-as,skos:exactMatch
-Medium-voltage,Medium voltage,same-as,skos:exactMatch
-Computerized axial tomography,Computed tomography,same-as,skos:exactMatch
-E health,Electronic healthcare,same-as,skos:exactMatch
-Kirchhoff current law,Kirchhoff's Law,same-as,skos:exactMatch
-Thermal distribution,Temperature distribution,same-as,skos:exactMatch
-Injection-locked frequency oscillators,Injection-locked oscillators,same-as,skos:exactMatch
-Fiber optic lines,Optical fiber cables,same-as,skos:exactMatch
-Unsolicited email,Unsolicited e-mail,same-as,skos:exactMatch
-Electroabsorptive modulators,Electro-absorption modulators,same-as,skos:exactMatch
-Dynamic circuits,Time varying circuits,same-as,skos:exactMatch
-Vehicle plate detection,License plate recognition,same-as,skos:exactMatch
-Fingerprint verification,Fingerprint recognition,same-as,skos:exactMatch
-Denoising,Noise reduction,same-as,skos:exactMatch
-Cultural simulation modeling,Computational cultural modeling,same-as,skos:exactMatch
-Hybrid ICs,Hybrid integrated circuits,same-as,skos:exactMatch
-Narrowband communication,Narrowband,same-as,skos:exactMatch
-Cyberharrassment,Cyberbullying,same-as,skos:exactMatch
-Noninvasive therapy,Noninvasive treatment,same-as,skos:exactMatch
-Nano-scale Communication,Nanocommunication,same-as,skos:exactMatch
-Nonlinear dynamical systems,Nonlinear systems,same-as,skos:exactMatch
-Resistor-Inductor-Capacitor Circuits,RLC circuits,same-as,skos:exactMatch
-Bio-computing,Bio-inspired computing,same-as,skos:exactMatch
-Ball grinding,Ball milling,same-as,skos:exactMatch
-Superconductive layers,Superconducting films,same-as,skos:exactMatch
-Compressed air systems,Pneumatic systems,same-as,skos:exactMatch
-Signal Sources,Signal generators,same-as,skos:exactMatch
-LMS Algorithm,Least mean squares methods,same-as,skos:exactMatch
-Combinatorial theory,Combinatorial mathematics,same-as,skos:exactMatch
-Error correcting codes,Error correction codes,same-as,skos:exactMatch
-Optical measurement techniques,Optical variables measurement,same-as,skos:exactMatch
-Medical monitoring,Biomedical monitoring,same-as,skos:exactMatch
-Aerial robots,Autonomous aerial vehicles,same-as,skos:exactMatch
-Submarine cables,Underwater cables,same-as,skos:exactMatch
-Very High Frequency Circuits,VHF circuits,same-as,skos:exactMatch
-Federated-learning,Federated learning,same-as,skos:exactMatch
-Particle sizing,Particle measurements,same-as,skos:exactMatch
-Mathematical Studies,Mathematics,same-as,skos:exactMatch
-Thick layer circuits,Thick film circuits,same-as,skos:exactMatch
-Neptunium element,Neptunium,same-as,skos:exactMatch
-Control systems theory,Control theory,same-as,skos:exactMatch
-Specific gravity measurement,Density measurement,same-as,skos:exactMatch
-Prototype Development,Software prototyping,same-as,skos:exactMatch
-Machining equipment,Machine tools,same-as,skos:exactMatch
-Fluid Dynamics Regulation,Fluid flow control,same-as,skos:exactMatch
-Gas-filled tubes,Thyratrons,same-as,skos:exactMatch
-Proportional + integral control,PI control,same-as,skos:exactMatch
-Magnetic flux density,Magnetic fields,same-as,skos:exactMatch
-Spectrum efficiency,Spectral efficiency,same-as,skos:exactMatch
-Spreadsheet applications,Spreadsheet programs,same-as,skos:exactMatch
-Zirconium metal,Zirconium,same-as,skos:exactMatch
-Vehicle Control Systems,Automotive control,same-as,skos:exactMatch
-Thick film devices,Thick film circuits,same-as,skos:exactMatch
-High temperature superconductors,High-temperature superconductors,same-as,skos:exactMatch
-Renewable fuels,Biofuels,same-as,skos:exactMatch
-Public policies,Government policies,same-as,skos:exactMatch
-D2D Communication,Device-to-device communication,same-as,skos:exactMatch
-Depletion-mode HEMTs,D-HEMTs,same-as,skos:exactMatch
-Dispersed power generation,Distributed power generation,same-as,skos:exactMatch
-Electrical circuit failures,Circuit faults,same-as,skos:exactMatch
-Inertial confinement fusion,Laser fusion,same-as,skos:exactMatch
-Foam Polymers,Polymer foams,same-as,skos:exactMatch
-In memory computing,In-memory computing,same-as,skos:exactMatch
-Electrical parameters measurement,Electric variables measurement,same-as,skos:exactMatch
-Control system design,Control system synthesis,same-as,skos:exactMatch
-Analogue-digital conversion,Analog-digital conversion,same-as,skos:exactMatch
-Local loops,Subscriber loops,same-as,skos:exactMatch
-Voltage doublers,Voltage multipliers,same-as,skos:exactMatch
-Content-centric networking,Information-centric networking,same-as,skos:exactMatch
-Parietal cortex,Parietal lobe,same-as,skos:exactMatch
-Caesium,Cesium,same-as,skos:exactMatch
-Dielectric Resonator Aerials,Dielectric resonator antennas,same-as,skos:exactMatch
-Doppler assessment,Doppler measurement,same-as,skos:exactMatch
-Pulsed EA techniques,Pulsed electroacoustic methods,same-as,skos:exactMatch
-Neurocircuitry,Neural circuits,same-as,skos:exactMatch
-Proportional + derivative control,PD control,same-as,skos:exactMatch
-Petroleum compounds,Hydrocarbons,same-as,skos:exactMatch
-Web Ontology Language,OWL,same-as,skos:exactMatch
-Coal sector,Coal industry,same-as,skos:exactMatch
-Archaeological Studies,Archeology,same-as,skos:exactMatch
-Mathematical Geometry,Geometry,same-as,skos:exactMatch
-Millimeter wave ICs,Millimeter wave integrated circuits,same-as,skos:exactMatch
-Pressure level determination,Pressure measurement,same-as,skos:exactMatch
-Brain machine interfaces,Brain-computer interfaces,same-as,skos:exactMatch
-Self-organizing maps,Self-organizing feature maps,same-as,skos:exactMatch
-Logic databases,Deductive databases,same-as,skos:exactMatch
-Samarium-based chemicals,Samarium compounds,same-as,skos:exactMatch
-SOI Technology,Silicon-on-insulator,same-as,skos:exactMatch
-Brain Imaging,Neuroradiology,same-as,skos:exactMatch
-Domestic appliances,Home appliances,same-as,skos:exactMatch
-Mathematical formulas,Equations,same-as,skos:exactMatch
-Global trade,International trade,same-as,skos:exactMatch
-Yttrium Element,Yttrium,same-as,skos:exactMatch
+subject,object,original_label
+Antennas,Transmission line antennas,broader
+Signal processing,Filters,broader
+Chemical elements,Phosphorus,broader
+Chemical elements,Plutonium,broader
+Signal processing,Signal resolution,broader
+Geoscience,Oceans,broader
+Magnetics,Magnetic materials,broader
+Computer security,Cyber warfare,broader
+Modeling,Data models,broader
+Software,Privacy-invasive software,broader
+Radar,Radar applications,broader
+Industries,Construction industry,broader
+Materials processing,Punching,broader
+Software,Software quality,broader
+Measurement,Extraterrestrial measurements,broader
+Biology,Microinjection,broader
+Radar,Synthetic aperture radar,broader
+Control systems,Proportional control,broader
+Modeling,Green's function methods,broader
+Statistics,Autoregressive processes,broader
+Mathematics,Iterative methods,broader
+Circuits,Programmable logic devices,broader
+Computer security,Application security,broader
+Manufacturing systems,Melt processing,broader
+Biology,Bioelectric phenomena,broader
+Mechanical products,Bellows,broader
+Computer applications,Virtual enterprises,broader
+Algorithms,Classification algorithms,broader
+Biology,Cryobiology,broader
+Mathematics,Lattices,broader
+Computer security,Permission,broader
+Management,Conference management,broader
+Control systems,Fluid flow control,broader
+Medical conditions,Motion sickness,broader
+Magnetics,Magnetic sensors,broader
+Metals,Cadmium,broader
+Control systems,Thermal variables control,broader
+Diseases,Alcoholism,broader
+Nanotechnology,Casimir effect,broader
+Power systems,Power transmission,broader
+Circuits,UHF circuits,broader
+Geoscience,Earth,broader
+Filters,Nonlinear filters,broader
+Measurement,Coordinate measuring machines,broader
+Statistics,Minimax techniques,broader
+Numerical analysis,Finite difference methods,broader
+Anatomy,Urogenital system,broader
+Industries,Mining industry,broader
+Medical treatment,Brachytherapy,broader
+Chemical elements,Rhodium,broader
+Mechanical products,Seals,broader
+Metals,Samarium,broader
+Physics,Thermal factors,broader
+Medical conditions,Scoliosis,broader
+Mathematics,Optimization,broader
+Medical treatment,Orthopedic procedures,broader
+Management,Interface management,broader
+Nanotechnology,Nanocommunication,broader
+Communication systems,Narrowband,broader
+Robots,Quadrupedal robots,broader
+Antennas,Yagi-Uda antennas,broader
+Optics,Optical harmonic generation,broader
+Materials,Auxetic materials,broader
+Power systems,PSCAD,broader
+Communication systems,Cross layer design,broader
+Communication systems,Underwater communication,broader
+Computer applications,Power engineering computing,broader
+Measurement,Geophysical measurements,broader
+Structural shapes,Structural rods,broader
+Medical conditions,Visual impairment,broader
+Mathematics,Superposition calculus,broader
+Diseases,Plant diseases,broader
+Medical treatment,Electronic medical prescriptions,broader
+Measurement,Optical variables measurement,broader
+Management,Financial management,broader
+Materials,Metal foam,broader
+Mechanical factors,Magnetohydrodynamics,broader
+Circuits,Millimeter wave circuits,broader
+Signal processing,Attenuators,broader
+Diseases,Pathogens,broader
+Mathematics,Taylor series,broader
+Economics,Costs,broader
+Computer security,Cyberattack,broader
+Measurement,Antenna measurements,broader
+Circuits,Equivalent circuits,broader
+Nanotechnology,Nanopatterning,broader
+Measurement,Loss measurement,broader
+Image processing,Image fusion,broader
+Medical conditions,Muscular dystrophy,broader
+Statistics,Statistical analysis,broader
+Algorithms,Dynamic programming,broader
+Magnetics,Magnetic levitation,broader
+Image processing,Image restoration,broader
+Circuits,Ultra large scale integration,broader
+Biology,Botany,broader
+Communication systems,Data communication,broader
+Communication systems,Device-to-device communication,broader
+Control systems,Open loop systems,broader
+Image processing,Image denoising,broader
+Power systems,Power system protection,broader
+Integrated circuits,Monolithic integrated circuits,broader
+Sensors,Acoustic sensors,broader
+Industries,Tourism industry,broader
+Control systems,Motion compensation,broader
+Magnetics,Magnets,broader
+Optics,Electron optics,broader
+Mathematics,Transmission line matrix methods,broader
+Communication systems,Satellite communication,broader
+Power systems,Power system measurements,broader
+Anatomy,Endocrine system,broader
+Signal processing,Digital signal processing,broader
+Power systems,Power system analysis computing,broader
+Magnetics,Magnetoacoustic effects,broader
+Control systems,Robot control,broader
+Nanotechnology,Molecular computing,broader
+Geoscience,Oceanography,broader
+Robots,Orbital robotics,broader
+Structural shapes,Thin wall structures,broader
+Measurement,Bathymetry,broader
+Geoscience,Land surface,broader
+Power systems,Uninterruptible power systems,broader
+Integrated circuits,UHF integrated circuits,broader
+Communication systems,Communication system control,broader
+Metals,Metallization,broader
+Mechanical products,Fasteners,broader
+Communication systems,Routing,broader
+Chemical elements,Cerium,broader
+Chemical elements,Fluorine,broader
+Production,Ball milling,broader
+Industries,Electrical engineering industry,broader
+Sensors,Chemical and biological sensors,broader
+Computer networks,Peer-to-peer computing,broader
+Materials,Crystals,broader
+Medical conditions,Hyperthermia,broader
+Industries,Textile technology,broader
+Circuits,Radiation detector circuits,broader
+Measurement,Viscosity,broader
+Imaging,Multispectral imaging,broader
+Medical conditions,Congestive heart failure,broader
+Mechanical products,Gears,broader
+Filters,Transversal filters,broader
+Economics,Sharing economy,broader
+Computer security,Trusted computing,broader
+Magnetics,Magnetic fields,broader
+Image processing,Image decomposition,broader
+Power systems,Power system dynamics,broader
+Brain,Occipital Lobe,broader
+Materials,Solids,broader
+Statistics,Differential privacy,broader
+Computer security,Data integrity,broader
+Communication systems,MIMO communication,broader
+Antennas,Radar antennas,broader
+Mechanical products,Mechanical guides,broader
+Control systems,Sensorless control,broader
+Communication systems,Telegraphy,broader
+Medical conditions,Kidney stones,broader
+Chemical elements,Tellurium,broader
+Statistics,Covariance matrices,broader
+Mechanical products,Automotive components,broader
+Circuits,Multiplying circuits,broader
+Three-dimensional printing,Manufacturing systems,narrower
+Mathematical models,Modeling,narrower
+Cardiovascular diseases,Diseases,narrower
+Structural shapes,Mechanical products,narrower
+Financial industry,Industries,narrower
+Hamming distances,Information theory,narrower
+Best practices,Management,narrower
+Signal integrity,Signal processing,narrower
+Image enhancement,Image processing,narrower
+Adaptive estimation,Statistics,narrower
+Wireless communication,Communication systems,narrower
+Research and development management,Management,narrower
+Sensor systems and applications,Sensors,narrower
+Circulatory system,Anatomy,narrower
+Waves,Physics,narrower
+Utility theory,Mathematics,narrower
+Algorithms,Mathematics,narrower
+Passwords,Computer security,narrower
+Autonomic nervous system,Nervous system,narrower
+Helium,Chemical elements,narrower
+Embedded software,Software,narrower
+Magnetooptic effects,Magnetics,narrower
+IP networks,Computer networks,narrower
+Duplex communication systems,Communication systems,narrower
+Noise measurement,Measurement,narrower
+Token networks,Communication systems,narrower
+MONOS devices,Semiconductor devices,narrower
+Glucose sensors,Sensors,narrower
+Ultra large scale integration,Integrated circuits,narrower
+Semiconductor device modeling,Modeling,narrower
+Image synthesis,Image processing,narrower
+Medical information systems,Computer applications,narrower
+Gyromagnetism,Magnetics,narrower
+Numerical analysis,Mathematics,narrower
+Measurement uncertainty,Measurement,narrower
+Biological processes,Biology,narrower
+Degenerative diseases,Diseases,narrower
+Superconducting materials,Materials,narrower
+Circuit faults,Circuits,narrower
+Coprocessors,Integrated circuits,narrower
+Biodiversity,Biology,narrower
+Signal detection,Signal processing,narrower
+Anti-virus software,Software,narrower
+Dementia,Medical conditions,narrower
+Neurophysiology,Brain,narrower
+Videophone systems,Communication systems,narrower
+Mechanical sensors,Sensors,narrower
+Token networks,Computer networks,narrower
+Electronic equipment testing,Testing,narrower
+Thrombosis,Medical conditions,narrower
+Neutron capture therapy,Medical treatment,narrower
+Equalizers,Filters,narrower
+Contract management,Management,narrower
+Atmospheric measurements,Measurement,narrower
+Clustering algorithms,Algorithms,narrower
+Communication system signaling,Communication systems,narrower
+Wafer scale integration,Circuits,narrower
+Multimedia communication,Communication systems,narrower
+Centralized control,Control systems,narrower
+Pregnancy,Medical conditions,narrower
+Electromechanical systems,Industry applications,narrower
+Transmission line measurements,Electric variables measurement,narrower
+Platinum,Metals,narrower
+Big Data applications,Computer applications,narrower
+Lithium,Metals,narrower
+Cloud computing security,Computer security,narrower
+Magnetic properties,Magnetics,narrower
+Organizational aspects,Management,narrower
+Reflectometry,Measurement,narrower
+Pulse shaping methods,Signal processing,narrower
+UHF measurements,Measurement,narrower
+Paints,Materials,narrower
+Software maintenance,Software,narrower
+Teletext,Communication systems,narrower
+Physiology,Biology,narrower
+Iterative methods,Numerical analysis,narrower
+MESFET integrated circuits,Integrated circuits,narrower
+Human anatomy,Anatomy,narrower
+Neurology,Medical specialties,narrower
+Biological information theory,Biology,narrower
+Nanopositioning,Nanotechnology,narrower
+Linear matrix inequalities,Mathematics,narrower
+Radon,Chemical elements,narrower
+Numerical models,Modeling,narrower
+Meteorological factors,Geoscience,narrower
+Table lookup,Image processing,narrower
+Peripheral nervous system,Nervous system,narrower
+Indoor communication,Communication systems,narrower
+Signal generators,Signal processing,narrower
+Analog circuits,Circuits,narrower
+Wearable antennas,Antennas,narrower
+Semiconductor lasers,Semiconductor devices,narrower
+Multiaccess communication,Communication systems,narrower
+Artificial bee colony algorithm,Algorithms,narrower
+Biomedical communication,Communication systems,narrower
+Humanoid robots,Robots,narrower
+Amplifiers,Signal processing,narrower
+Method of moments,Mathematics,narrower
+Estimation,Mathematics,narrower
+Clinical diagnosis,Medical services,narrower
+Infrared imaging,Imaging,narrower
+Cryotherapy,Medical treatment,narrower
+Optical losses,Optics,narrower
+Circuit synthesis,Circuits,narrower
+Power system analysis computing,Computer applications,narrower
+Power filters,Filters,narrower
+Thermal variables measurement,Measurement,narrower
+Public relations,Management,narrower
+Adaptive optics,Optics,narrower
+Sequential circuits,Circuits,narrower
+Semiconductor waveguides,Semiconductor devices,narrower
+Soft sensors,Sensors,narrower
+Superconducting integrated circuits,Integrated circuits,narrower
+Gradient methods,Numerical analysis,narrower
+Risk analysis,Management,narrower
+Rectifiers,Circuits,narrower
+Beams,Physics,narrower
+Blades,Mechanical products,narrower
+Brain stimulation,Medical treatment,narrower
+Regional area networks,Communication systems,narrower
+Topology,Mathematics,narrower
+Pulsed power systems,Power systems,narrower
+Extinction coefficients,Optics,narrower
+Systematics,Biology,narrower
+Nanostructures,Nanotechnology,narrower
+Voltage multipliers,Circuits,narrower
+Source coding,Information theory,narrower
+Magnetic resonance imaging,Imaging,narrower
+Intracranial pressure sensors,Sensors,narrower
+Steel,Metals,narrower
+Marketing management,Management,narrower
+Networked control systems,Control systems,narrower
+RLC circuits,Circuits,narrower
+Business process re-engineering,Management,narrower
+Nickel,Metals,narrower
+Spinal cord,Nervous system,narrower
+Palladium,Metals,narrower
+Benchmark testing,Testing,narrower
+Organic inorganic hybrid materials,Materials,narrower
+Communication system software,Communication systems,narrower
+Process modeling,Modeling,narrower
+Image stitching,Image processing,narrower
+Manufacturing industries,Industries,narrower
+Technetium,Chemical elements,narrower
+Pressure control,Control systems,narrower
+Ceramics,Materials,narrower
+Linear systems,Mathematics,narrower
+Ground penetrating radar,Radar,narrower
+SISO communication,Communication systems,narrower
+Digestive system,Anatomy,narrower
+Food technology,Industry applications,narrower
+Electrostatic measurements,Electric variables measurement,narrower
+Resonator filters,Filters,narrower
+Mathematical programming,Mathematics,narrower
+Nanoscale technology,Nanotechnology,narrower
+Knowledge management,Computer applications,narrower
+Vegetation,Biology,narrower
+Gaussian mixture model,Statistics,narrower
+Epilepsy,Diseases,narrower
+Bipolar transistor circuits,Circuits,narrower
+Electronic voting systems,Monolithic integrated circuits,other
+Requirements engineering,Xnot_relatedD,other
+Agricultural robots,Satellite ground stations,other
+Hip,Collective intelligence,other
+Radio transceivers,Austenite,other
+Space radiation,UHF propagation,other
+Multistatic radar,Heart rate,other
+Pulp manufacturing,Light fields,other
+Tides,Platinum,other
+Active networking,Doppler measurement,other
+Machine shops,Air conditioning,other
+Embryonic structures,Lightweight structures,other
+Statistical analysis,Whale optimization algorithms,other
+Image intensifiers,Encapsulation,other
+Thin films,Nonconductive adhesives,other
+Interferometry,Base stations,other
+Ice surface,Low-power wide area networks,other
+Radiation protection,Approximation methods,other
+Automotive engineering,Transactive energy,other
+Manipulators,Uncertainty,other
+X reality,Neural network compression,other
+Ice surface,Vision defects,other
+Steel industry,Organizations,other
+Radium,Data encapsulation,other
+Quantum dots,Plastic packaging,other
+Glass products,Mammography,other
+Archeology,Biofuels,other
+Corrugated surfaces,Career development,other
+Readout electronics,Body regions,other
+Lean production,Nitrogen compounds,other
+Hyper-intelligent systems,Wavelet analysis,other
+Dictionaries,On board unit,other
+Brain modeling,Trademarks,other
+Adaptive systems,Resource description framework,other
+Photothyristors,Web pages,other
+Inspection,Foundries,other
+Anxiety disorders,Biomedical monitoring,other
+Wireless personal area networks,Computer crashes,other
+Mixed integer linear programming,Transfer functions,other
+Foot,X-ray lithography,other
+Ambient networks,Vehicular ad hoc networks,other
+Vehicles,Censorship,other
+Packet switching,AC machines,other
+Smart cards,Immune system,other
+Readout electronics,Equal opportunities,other
+Ores,Autonomous driving,other
+Three-dimensional displays,Tuned circuits,other
+Space missions,Power engineering education,other
+Switching systems,Marine vegetation,other
+Microcell networks,Public infrastructure,other
+Automotive engineering,Bio-inspired engineering,other
+Anxiety disorders,Cable TV,other
+Paper mills,Chebyshev approximation,other
+Functional magnetic resonance imaging,Competitive intelligence,other
+Corporate acquisitions,Resource management,other
+Integrated memory circuits,Light rail systems,other
+Feedback loop,Flexible electronics,other
+Manufacturing automation,Conferences,other
+Mixed integer linear programming,Methanol,other
+Fiber reinforced plastics,Field programmable analog arrays,other
+Visual odometry,Cellular radio,other
+Java,Cutoff frequency,other
+Electroencephalography,Organic light emitting diodes,other
+Inference algorithms,Finishing,other
+Flammability,Smart homes,other
+Interferometry,Energy harvesting,other
+Fast Fourier transforms,Small business technology transfer,other
+Hyper-intelligent systems,Wireless LAN,other
+Mixed integer linear programming,Internal combustion engines,other
+Food industry,Jamming,other
+Deductive databases,Computational fluid dynamics,other
+Brain injuries,Transfer molding,other
+Neutron capture therapy,Sonar,other
+Entertainment industry,Geoacoustic inversion,other
+Planar waveguides,Admittance,other
+Mouth,CMOS image sensors,other
+Fractals,Phase shifting interferometry,other
+Entertainment industry,Energy management systems,other
+Wine industry,Manipulator dynamics,other
+SGML,Load flow analysis,other
+Sonar measurements,Ozonation,other
+Hip,Biomedical microelectromechanical systems,other
+Ores,Elementary particle vacuum,other
+Nanopackaging,Direction-of-arrival estimation,other
+Diamagnetic materials,MERIS,other
+Classification tree analysis,Neuromorphic engineering,other
+High-k dielectric materials,Radio navigation,other
+Vocabulary,Marketing management,other
+Automotive engineering,Global Earth Observation System of Systems,other
+Jamming,Bioelectric phenomena,other
+Cobalt alloys,Action potentials,other
+Volume relaxation,Physical unclonable function,other
+Superconducting transmission lines,Multichip modules,other
+Mixed integer linear programming,Load monitoring,other
+Switching systems,Network analyzers,other
+Earth,Information science,other
+Wine industry,Liquid nitrogen,other
+Nonlinear circuits,Moisture control,other
+Gaze tracking,Protection switching,other
+Gynecology,Eyes,other
+Visual odometry,Publishing,other
+Ambient networks,Ergonomics,other
+Image sequences,Knowledge acquisition,other
+Induction motors,Memoryless systems,other
+Iterative methods,Thermoreflectance imaging,other
+Thermal management,Erbium-doped fiber lasers,other
+Atomic force microscopy,Wavelet domain,other
+Iterative decoding,Eyelids,other
+Electrochromic devices,Green design,other
+Permanent magnets,Chemical analysis,other
+Electronic commerce,Photorefractive effect,other
+Control theory,Reflector antennas,other
+Histopathology,Local government,other
+Thomson effect,Thermoplastic polyethylene,other
+Induction motors,Collaborative work,other
+Propellers,Data systems,other
+Ores,Photothyristors,other
+Fractals,Telepresence,other
+Hip,Optical modulation,other
+Diffraction gratings,Underground power cables,other
+Microwave communication,Autonomic systems,other
+Thermal management,Yttrium,other
+Textile industry,Fault tolerance,other
+Sonar measurements,Envelope detectors,other
+Bulk acoustic wave devices,Magnesium,other
+Charge measurement,Dams,other
+Anthropomorphism,Marine technology,other
+Orthopedic procedures,Phonocardiography,other
+Digital recording,OWL,other
+Manufacturing automation,Load management,other
+Home computing,Tornadoes,other
+Three-dimensional displays,Collective intelligence,other
+Requirements engineering,North Pole,other
+Semiconductor waveguides,Asynchronous communication,other
+Continuous wavelet transforms,Optical solitons,other
+Emissions trading,Computer vision,other
+Surface cleaning,Elastic computing,other
+Aquaculture,Positron emission tomography,other
+Business intelligence,Modal analysis,other
+Australia,Rotating machines,other
+Earthquakes,Integrated optics,other
+Quantum cascade lasers,Digital elevation models,other
+Sonar measurements,Probability distribution,other
+Decorrelation,Neon,other
+Uniaxial strain,Aerosols,other
+Anthropomorphism,Optical add-drop multiplexers,other
+Presence network agents,Disk drives,other
+Broadcasting,Message authentication,other
+Reconfigurable devices,Reinforcement learning,other
+Acoustic reflection,Optical fiber communication,other
+Transversal filters,Microrelays,other
+Clamps,Multiwave mixing,other
+Self-organizing networks,Business process re-engineering,other
+Tracking loops,Hydrogen fluoride,other
+Electrolytes,Consensus protocol,other
+Continuous wavelet transforms,Wheels,other
+Estimation,Heat recovery,other
+Mobile learning,Microfiltration,other
+Authentication,Power harmonic filters,other
+Booting,Kidney,other
+Cyberbullying,Cyber harrassment,same-as
+Brain injuries,Cerebral injuries,same-as
+Fiber reinforced plastics,Fiberglass composites,same-as
+Orthopedic procedures,Orthopedic surgeries,same-as
+Automatic control,Automated regulation,same-as
+Control equipment,Control devices,same-as
+Error correction codes,Errorcorrection codes,same-as
+Radio access networks,RAN Networks,same-as
+Digital-analog conversion,D/A conversion,same-as
+Booting,System Startup,same-as
+Spatial diversity,Space diversity,same-as
+Extraterrestrial measurements,Space measurements,same-as
+Fingerprint recognition,Fingerprint identification,same-as
+Home appliances,Household appliances,same-as
+Electronic commerce,Ecommerce,same-as
+Geothermal power generation,Geothermal energy production,same-as
+Charge measurement,Charge quantification,same-as
+Electronic healthcare,Ehealth,same-as
+Discrete wavelet transforms,DWT,same-as
+Measurement units,Measurement scales,same-as
+Catalysis,Catalyst Action,same-as
+Object recognition,Object identification,same-as
+Autonomous automobiles,Autonomous cars,same-as
+Computed tomography,Computerised axial tomography,same-as
+Multimedia communication,Digital media communication,same-as
+Antimony,Stibium,same-as
+Visual systems,Visual apparatus,same-as
+Electro-optic modulators,Electrooptical modulators,same-as
+Flammability,Combustibility,same-as
+Nearest neighbor methods,Nearest neighbour methods,same-as
+Hydroelectric power generation,Hyrdroelectric,same-as
+Diversity methods,Diversity techniques,same-as
+Biological materials,Biological substances,same-as
+Finite element analysis,Finite-element analysis,same-as
+mHEMTs,Metamorphic High Electron Mobility Transistors,same-as
+Functional analysis,Mathematical analysis of functions,same-as
+Quantum cascade lasers,QCL lasers,same-as
+Spaceborne radar,Space based radar,same-as
+Human resource management,HR management,same-as
+Maximum a posteriori estimation,Maximum a posteriori probability,same-as
+Glow discharges,Glow Discharge Plasma,same-as
+Mobile applications,Mobile apps,same-as
+Retinal vessels,Retinal blood vessels,same-as
+Mesoporous materials,Mesoporous substances,same-as
+Pulse width modulation converters,PWM convertors,same-as
+Synchronous digital hierarchy,SDH,same-as
+Analog-digital integrated circuits,Analog digital integrated circuits,same-as
+Wafer scale integration,Wafer-level integration,same-as
+Anthropometry,Human Measurements,same-as
+Machine assisted indexing,Machine-aided indexing,same-as
+Sociotechnical systems,Human-technical systems,same-as
+Anthropomorphism,Human-like characteristics,same-as
+Polarization shift keying,PolSK,same-as
+Whale optimization algorithms,Whale-inspired optimization,same-as
+Thyristor circuits,Silicon Controlled Rectifier Circuits,same-as
+PD control,Proportional derivative control,same-as
+Blockchains,Block chain,same-as
+Electricity supply industry deregulation,Electricity supply industry liberalisation,same-as
+X-ray telescopes,X-ray astronomy telescopes,same-as
+Computer crime,Cybercrime,same-as
+Solids,Solid materials,same-as
+Autonomous underwater vehicles,Underwater drones,same-as
+Logic arrays,Logic matrices,same-as
+Hybrid integrated circuits,Mixed-signal integrated circuits,same-as
+Home computing,Domestic computing,same-as
+Autonomous underwater vehicles,Underwater autonomous vehicles,same-as
+Self-organizing feature maps,Self organizing maps,same-as
+Zero correlation zone,Zero correlation area,same-as
+Medium voltage,Medium-voltage,same-as
+Computed tomography,Computerized axial tomography,same-as
+Electronic healthcare,E health,same-as
+Kirchhoff's Law,Kirchhoff current law,same-as
+Temperature distribution,Thermal distribution,same-as
+Injection-locked oscillators,Injection-locked frequency oscillators,same-as
+Optical fiber cables,Fiber optic lines,same-as
+Unsolicited e-mail,Unsolicited email,same-as
+Electro-absorption modulators,Electroabsorptive modulators,same-as
+Time varying circuits,Dynamic circuits,same-as
+License plate recognition,Vehicle plate detection,same-as
+Fingerprint recognition,Fingerprint verification,same-as
+Noise reduction,Denoising,same-as
+Computational cultural modeling,Cultural simulation modeling,same-as
+Hybrid integrated circuits,Hybrid ICs,same-as
+Narrowband,Narrowband communication,same-as
+Cyberbullying,Cyberharrassment,same-as
+Noninvasive treatment,Noninvasive therapy,same-as
+Nanocommunication,Nano-scale Communication,same-as
+Nonlinear systems,Nonlinear dynamical systems,same-as
+RLC circuits,Resistor-Inductor-Capacitor Circuits,same-as
+Bio-inspired computing,Bio-computing,same-as
+Ball milling,Ball grinding,same-as
+Superconducting films,Superconductive layers,same-as
+Pneumatic systems,Compressed air systems,same-as
+Signal generators,Signal Sources,same-as
+Least mean squares methods,LMS Algorithm,same-as
+Combinatorial mathematics,Combinatorial theory,same-as
+Error correction codes,Error correcting codes,same-as
+Optical variables measurement,Optical measurement techniques,same-as
+Biomedical monitoring,Medical monitoring,same-as
+Autonomous aerial vehicles,Aerial robots,same-as
+Underwater cables,Submarine cables,same-as
+VHF circuits,Very High Frequency Circuits,same-as
+Federated learning,Federated-learning,same-as
+Particle measurements,Particle sizing,same-as
+Mathematics,Mathematical Studies,same-as
+Thick film circuits,Thick layer circuits,same-as
+Neptunium,Neptunium element,same-as
+Control theory,Control systems theory,same-as
+Density measurement,Specific gravity measurement,same-as
+Software prototyping,Prototype Development,same-as
+Machine tools,Machining equipment,same-as
+Fluid flow control,Fluid Dynamics Regulation,same-as
+Thyratrons,Gas-filled tubes,same-as
+PI control,Proportional + integral control,same-as
+Magnetic fields,Magnetic flux density,same-as
+Spectral efficiency,Spectrum efficiency,same-as
+Spreadsheet programs,Spreadsheet applications,same-as
+Zirconium,Zirconium metal,same-as
+Automotive control,Vehicle Control Systems,same-as
+Thick film circuits,Thick film devices,same-as
+High-temperature superconductors,High temperature superconductors,same-as
+Biofuels,Renewable fuels,same-as
+Government policies,Public policies,same-as
+Device-to-device communication,D2D Communication,same-as
+D-HEMTs,Depletion-mode HEMTs,same-as
+Distributed power generation,Dispersed power generation,same-as
+Circuit faults,Electrical circuit failures,same-as
+Laser fusion,Inertial confinement fusion,same-as
+Polymer foams,Foam Polymers,same-as
+In-memory computing,In memory computing,same-as
+Electric variables measurement,Electrical parameters measurement,same-as
+Control system synthesis,Control system design,same-as
+Analog-digital conversion,Analogue-digital conversion,same-as
+Subscriber loops,Local loops,same-as
+Voltage multipliers,Voltage doublers,same-as
+Information-centric networking,Content-centric networking,same-as
+Parietal lobe,Parietal cortex,same-as
+Cesium,Caesium,same-as
+Dielectric resonator antennas,Dielectric Resonator Aerials,same-as
+Doppler measurement,Doppler assessment,same-as
+Pulsed electroacoustic methods,Pulsed EA techniques,same-as
+Neural circuits,Neurocircuitry,same-as
+PD control,Proportional + derivative control,same-as
+Hydrocarbons,Petroleum compounds,same-as
+OWL,Web Ontology Language,same-as
+Coal industry,Coal sector,same-as
+Archeology,Archaeological Studies,same-as
+Geometry,Mathematical Geometry,same-as
+Millimeter wave integrated circuits,Millimeter wave ICs,same-as
+Pressure measurement,Pressure level determination,same-as
+Brain-computer interfaces,Brain machine interfaces,same-as
+Self-organizing feature maps,Self-organizing maps,same-as
+Deductive databases,Logic databases,same-as
+Samarium compounds,Samarium-based chemicals,same-as
+Silicon-on-insulator,SOI Technology,same-as
+Neuroradiology,Brain Imaging,same-as
+Home appliances,Domestic appliances,same-as
+Equations,Mathematical formulas,same-as
+International trade,Global trade,same-as
+Yttrium,Yttrium Element,same-as

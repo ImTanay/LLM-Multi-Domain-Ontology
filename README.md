@@ -31,7 +31,7 @@ This folder contains all datasets used in this study, including **IEEE-Rel-3K**,
 
 The dataset was systematically constructed to ensure high-quality semantic relationships across these domains. Below is a detailed breakdown of the dataset construction process:
 
-| **Domain**       | **Dataset**      | **Broader** | **Narrower** | **Exact Match** | **Other** | **Total** |
+| **Domain**       | **Dataset**      | **broader** | **narrower** | **same-as** | **other** | **Total** |
 |-------------------|------------------|-------------|--------------|-----------------|-----------|-----------|
 | **Engineering**  | **IEEE-Rel-3K** | 800         | 800          | 800             | 800       | 3,200     |
 | **Physics**      | **PhySH-Rel-875**| 250         | 250          | 125             | 250       | 875       |
@@ -43,24 +43,24 @@ The dataset was systematically constructed to ensure high-quality semantic relat
 #### **1. Engineering Domain: IEEE-Rel-3K**
 - **Source**: IEEE Thesaurus (RDF v1.02)
 - **Composition**:
-    - 800 relationships each for `skos:broader` and `skos:narrower`.
-    - 800 relationships for `skos:exactMatch`, manually validated for synonymy.
-    - 800 unrelated topic pairs labeled as `other`.
+    - 800 relationships each for `broader` and `narrower`.
+    - 800 relationships for `same-as`, manually validated for synonymy.
+    - 800 unrelated topic pairs labelled as `other`.
 
 #### **2. Physics Domain: PhySH-Rel-875**
 - **Source**: Physical Subject Headings (PhySH)
 - **Composition**:
-    - 250 relationships each for `skos:broader` and `skos:narrower`.
-    - 125 relationships for `skos:exactMatch`, manually curated.
-    - 250 unrelated topic pairs labeled as `other`.
+    - 250 relationships each for `broader` and `narrower`.
+    - 125 relationships for `same-as`, manually curated.
+    - 250 unrelated topic pairs labelled as `other`.
 
 #### **3. Biomedical Domain: MeSH-Rel-4K**
 - **Source**: Medical Subject Headings (MeSH)
 - **Composition**:
-    - 1,000 relationships for `skos:broader`, extracted from `mesh:broaderDescriptor`.
-    - 1,000 relationships for `skos:narrower`, created by reversing broader triples.
-    - 1,000 relationships for `skos:exactMatch`, derived from `mesh:relatedConcept`.
-    - 1,000 unrelated topic pairs labeled as `other`.
+    - 1,000 relationships for `broader`, extracted from `mesh:broaderDescriptor`.
+    - 1,000 relationships for `narrower`, created by reversing broader triples.
+    - 1,000 relationships for `same-as`, derived from `mesh:relatedConcept`.
+    - 1,000 unrelated topic pairs labelled as `other`.
 
 ### 📂 Combined Dataset: PEM-Rel-8K
 The three domain-specific datasets were merged to create **PEM-Rel-8K**, supporting cross-domain transferability experiments and fine-tuning of LLMs for ontology generation. The dataset was split into training, validation, and test sets using a 7:1:2 ratio.
@@ -81,22 +81,22 @@ This folder contains the **scripts** for identifying semantic relationships betw
 
 
 #### Task Overview
-The task addressed in this study involves identifying the semantic relationship that holds between a given pair of research concepts, denoted as $c_A$ and $c_B$. This task is formalized as a single-label, multi-class classification problem, where each input pair $(c_A, c_B)$ is assigned to exactly one of the following mutually exclusive categories:
+The task addressed in this study involves identifying the semantic relationship that holds between a given pair of research topics, denoted as $t_A$ and $t_B$. This task is formalized as a single-label, multi-class classification problem, where each input pair $(t_A, t_B)$ is assigned to exactly one of the following mutually exclusive categories:
 
-- **skos:broader**: $c_A$ is a more specific concept subsumed by the broader concept $c_B$. For example, *adaptive signal processing* is subsumed by *signal processing*.
-- **skos:narrower**: $c_A$ is a broader concept that subsumes the more specific concept $c_B$. For example, *databases* subsumes *distributed databases*. This is the inverse relationship of **skos:broader**.
-- **skos:exactMatch**: $c_A$ and $c_B$ are semantically equivalent and can be used interchangeably across a broad range of information retrieval tasks. For example, *haptic interface* and *haptic device*.
-- **other**: This category does not define a semantic relationship. Its purpose is to provide the classifier with a mechanism to label negative examples. Without it, the classifier would be forced to assign one of the three predefined semantic relationships even when none actually applies to a given pair of topics.
+- **broader**: $t_A$ is a broader topic that subsumes the more specific topic $t_B$. For example, *databases* subsumes *distributed databases*
+- **narrower**: $t_A$ is a more specific topic subsumed by the broader topic $t_B$. For example, *adaptive signal processing* is subsumed by *signal processing*. This is the inverse relationship of **broader**;
+- **same-as**: $t_A$ and $t_B$ are semantically equivalent and can be used interchangeably across a broad range of information retrieval tasks. For example, *ontology alignment* and *ontology matching*.
+- **other**: in contrast with the previous three categories, this category does not define a semantic relation.  Its purpose is simply to provide the classifier with a mechanism to label negative examples. Without it, the classifier would be forced to assign one of the three predefined semantic relationships even when none actually applies to a given pair of topics.
 
 #### Experiment Strategies
 
-The experimental strategies in this study are categorized into two prompting-based approaches and three fine-tuning-based approaches:
+The experimental strategies in this study are categorised into two prompting-based approaches and three fine-tuning-based approaches:
 
 1. **Prompting-based Strategies**:
     - **Standard Prompting**: Each topic pair is processed once using a standardised prompt template.
     - **CoT, Two-way Strategy**: Each topic pair is processed twice:
-        - First, the relationship between $c_A$ and $c_B$ is identified.
-        - Then, the relationship between $c_B$ and $c_A$ is identified.
+        - First, the relationship between $t_A$ and $t_B$ is identified.
+        - Then, the relationship between $t_B$ and $t_A$ is identified.
 
 2. **Fine-tuning-based Strategies**:
     - **Domain-specific Evaluation**: The LLM is fine-tuned and tested within the same discipline (e.g., fine-tuned on the training set of *MeSH-Rel-4K* and evaluated on the test set of *MeSH-Rel-4K*). This setting is expected to yield the highest performance due to domain alignment.
@@ -107,7 +107,7 @@ The experimental strategies in this study are categorized into two prompting-bas
     #### Prompt Template
     A standardised prompt template is employed across all strategies and models:
 
-    ```Classify the relationship between `[CONCEPT-A]` and `[CONCEPT-B]`.```
+    ```Classify the relationship between `[TOPIC-A]` and `[TOPIC-B]`.```
 
 #### The table below provides an overview of the 12 LLMs used in our experiments
 It includes the **Model** name, the alias adopted in this study, the number of trainable **Parameters**, the context **Window** size, and the rank and scaling factor of the low-rank adaptation matrices used in LoRA (**r** and **alpha**).
